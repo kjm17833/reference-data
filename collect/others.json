@@ -1,0 +1,402 @@
+{
+  "payingBanks": {
+    "totalCount": 10,
+    "items": [
+      {
+        "_id": "69f67ef253a32fca065d1495",
+        "id": "u-f7g8h9i0-j1k2-4l3m-n4o5-p6q7r8s9t0u1",
+        "name": "경남은행"
+      },
+      {
+        "_id": "69f67ef253a32fca065d1496",
+        "id": "u-v2w3x4y5-z6a7-4b8c-d9e0-f1g2h3i4j5k6",
+        "name": "광주은행"
+      },
+      {
+        "_id": "69f67ef253a32fca065d1497",
+        "id": "u-l7m8n9o0-p1q2-4r3s-t4u5-v6w7x8y9z0a1",
+        "name": "국민은행"
+      },
+      {
+        "_id": "69f67ef253a32fca065d1498",
+        "id": "u-b2c3d4e5-f6g7-4h8i-j9k0-l1m2n3o4p5q6",
+        "name": "농협은행"
+      },
+      {
+        "_id": "69f67ef253a32fca065d1499",
+        "id": "u-r7s8t9u0-v1w2-4x3y-z4a5-b6c7d8e9f0g1",
+        "name": "부산은행"
+      }
+    ]
+  },
+  "refundBanks": {
+    "totalCount": 22,
+    "items": [
+      {
+        "_id": "69f67ef353a32fca065d14ad",
+        "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
+        "name": "sc제일은행"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14a7",
+        "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
+        "name": "경남은행"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14a8",
+        "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
+        "name": "광주은행"
+      },
+      {
+        "_id": "69f67ef353a32fca065d149f",
+        "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
+        "name": "국민은행"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14a4",
+        "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
+        "name": "기업은행"
+      }
+    ]
+  },
+  "executionCourts": {
+    "totalCount": 60,
+    "items": [
+      {
+        "_id": "69f67ef353a32fca065d14e4",
+        "id": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
+        "code": "9740708",
+        "order": "000510",
+        "name": "광주지방법원",
+        "shortName": "광주지법",
+        "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14e5",
+        "id": "u-74aefa84-ae94-4559-a594-610227def29f",
+        "code": "9740717",
+        "order": "000511",
+        "name": "광주지방법원 목포지원",
+        "shortName": "목포지원",
+        "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14e7",
+        "id": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
+        "code": "9740723",
+        "order": "000513",
+        "name": "광주지방법원 순천지원",
+        "shortName": "순천지원",
+        "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14e6",
+        "id": "u-0bf2b7d7-c3d8-42b2-960a-bd1a1c546e06",
+        "code": "9740721",
+        "order": "000512",
+        "name": "광주지방법원 장흥지원",
+        "shortName": "장흥지원",
+        "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071"
+      },
+      {
+        "_id": "69f67ef353a32fca065d14e8",
+        "id": "u-52cdb1b4-efc1-4eef-8377-878e17b32ac0",
+        "code": "9740728",
+        "order": "000514",
+        "name": "광주지방법원 해남지원",
+        "shortName": "해남지원",
+        "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071"
+      }
+    ]
+  },
+  "issuingCourts": {
+    "totalCount": 209,
+    "items": [
+      {
+        "_id": "69f67ef453a32fca065d159e",
+        "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
+        "name": "강진군법원"
+      },
+      {
+        "_id": "69f67ef453a32fca065d1591",
+        "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
+        "name": "거제시법원"
+      },
+      {
+        "_id": "69f67ef453a32fca065d1589",
+        "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
+        "name": "거창지원"
+      },
+      {
+        "_id": "69f67ef453a32fca065d1565",
+        "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
+        "name": "경산시법원"
+      },
+      {
+        "_id": "69f67ef453a32fca065d156a",
+        "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
+        "name": "고령군법원"
+      }
+    ]
+  },
+  "regions": {
+    "totalCount": 252,
+    "items": [
+      {
+        "_id": "69f67ef553a32fca065d15c2",
+        "id": "u-18673357-e004-45be-92a2-ce4807ef10f7",
+        "code": "5115000000",
+        "name": "강원특별자치도 강릉시",
+        "shortName": "강릉시",
+        "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a"
+      },
+      {
+        "_id": "69f67ef553a32fca065d15c3",
+        "id": "u-2a98d533-0c2f-43a5-ad5c-dbe28f5f5518",
+        "code": "5182000000",
+        "name": "강원특별자치도 고성군",
+        "shortName": "강원 고성군",
+        "executionCourtId": "u-160e2fb8-8f5c-4213-b743-24197367fc3b"
+      },
+      {
+        "_id": "69f67ef553a32fca065d15c4",
+        "id": "u-0aa8bf4f-01c3-499c-a526-2ce5f6f96eee",
+        "code": "5117000000",
+        "name": "강원특별자치도 동해시",
+        "shortName": "동해시",
+        "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a"
+      },
+      {
+        "_id": "69f67ef553a32fca065d15c5",
+        "id": "u-2e44d700-98f2-40f3-b547-f0252f684a3b",
+        "code": "5123000000",
+        "name": "강원특별자치도 삼척시",
+        "shortName": "삼척시",
+        "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a"
+      },
+      {
+        "_id": "69f67ef553a32fca065d15c6",
+        "id": "u-7a2a337a-2359-43e3-9bbf-505e806aef15",
+        "code": "5121000000",
+        "name": "강원특별자치도 속초시",
+        "shortName": "속초시",
+        "executionCourtId": "u-160e2fb8-8f5c-4213-b743-24197367fc3b"
+      }
+    ]
+  },
+  "representativeTitles": {
+    "totalCount": 10,
+    "items": [
+      {
+        "_id": "69f67ef653a32fca065d16be",
+        "id": "u-a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+        "name": "공동대표이사"
+      },
+      {
+        "_id": "69f67ef653a32fca065d16bf",
+        "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
+        "name": "관리인"
+      },
+      {
+        "_id": "69f67ef653a32fca065d16c7",
+        "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
+        "name": "기타"
+      },
+      {
+        "_id": "69f67ef653a32fca065d16c3",
+        "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
+        "name": "대표사원"
+      },
+      {
+        "_id": "69f67ef653a32fca065d16c1",
+        "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
+        "name": "대표이사"
+      }
+    ]
+  },
+  "subjectsToService": {
+    "totalCount": 14,
+    "items": [
+      {
+        "_id": "69f67ef653a32fca065d16cf",
+        "id": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
+        "name": "광주고등검찰청장",
+        "address": {
+          "zipNo": "61441",
+          "roadAddrPart1": "광주 동구 준법로 7-12",
+          "roadAddrPart2": "(지산동, 광주고등검찰청장)",
+          "original": {
+            "detBdNmList": "광주지방,고등검찰청, 광주고등법원, 광주지방법원",
+            "engAddr": "7-12 Junbeop-ro, Dong-gu, Gwangju",
+            "rn": "준법로",
+            "emdNm": "지산동",
+            "zipNo": "61441",
+            "roadAddrPart2": " (지산동)",
+            "emdNo": "01",
+            "sggNm": "동구",
+            "jibunAddr": "광주광역시 동구 지산동 342-1",
+            "siNm": "광주광역시",
+            "roadAddrPart1": "광주광역시 동구 준법로 7-12",
+            "bdNm": "",
+            "admCd": "2911011100",
+            "udrtYn": "0",
+            "lnbrMnnm": "342",
+            "roadAddr": "광주광역시 동구 준법로 7-12 (지산동)",
+            "lnbrSlno": "1",
+            "buldMnnm": "7",
+            "bdKdcd": "0",
+            "liNm": "",
+            "rnMgtSn": "291103159012",
+            "mtYn": "0",
+            "bdMgtSn": "2911011100103420001009261",
+            "buldSlno": "12"
+          }
+        }
+      },
+      {
+        "_id": "69f67ef653a32fca065d16ce",
+        "id": "u-db24d694-1048-413f-9bfa-35c1812de50a",
+        "name": "대구고등검찰청장",
+        "address": {
+          "zipNo": "42027",
+          "roadAddrPart1": "대구 수성구 동대구로 366",
+          "roadAddrPart2": "(범어동, 대구고등검찰청장)",
+          "original": {
+            "detBdNmList": "검찰청사, 테니스장 탈의실, 후생관, 구치감, 구치소, 고등검찰청 청사동, 특수부청사",
+            "engAddr": "366 Dongdaegu-ro, Suseong-gu, Daegu",
+            "rn": "동대구로",
+            "emdNm": "범어동",
+            "zipNo": "42027",
+            "roadAddrPart2": " (범어동)",
+            "emdNo": "01",
+            "sggNm": "수성구",
+            "jibunAddr": "대구광역시 수성구 범어동 458-2 대구고등(지방)검찰청",
+            "siNm": "대구광역시",
+            "roadAddrPart1": "대구광역시 수성구 동대구로 366",
+            "bdNm": "대구고등(지방)검찰청",
+            "admCd": "2726010100",
+            "udrtYn": "0",
+            "lnbrMnnm": "458",
+            "roadAddr": "대구광역시 수성구 동대구로 366 (범어동)",
+            "lnbrSlno": "2",
+            "buldMnnm": "366",
+            "bdKdcd": "0",
+            "liNm": "",
+            "rnMgtSn": "272603007004",
+            "mtYn": "0",
+            "bdMgtSn": "2726010100104580002005375",
+            "buldSlno": "0"
+          }
+        }
+      },
+      {
+        "_id": "69f67ef653a32fca065d16d0",
+        "id": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
+        "name": "대전고등검찰청장",
+        "address": {
+          "zipNo": "35237",
+          "roadAddrPart1": "대전 서구 둔산중로78번길 15",
+          "roadAddrPart2": "(둔산동, 대전고등검찰청장)",
+          "original": {
+            "detBdNmList": "",
+            "engAddr": "15 Dunsanjung-ro 78beon-gil, Seo-gu, Daejeon",
+            "rn": "둔산중로78번길",
+            "emdNm": "둔산동",
+            "zipNo": "35237",
+            "roadAddrPart2": " (둔산동)",
+            "emdNo": "01",
+            "sggNm": "서구",
+            "jibunAddr": "대전광역시 서구 둔산동 1390 대전지방검찰청",
+            "siNm": "대전광역시",
+            "roadAddrPart1": "대전광역시 서구 둔산중로78번길 15",
+            "bdNm": "대전지방검찰청",
+            "admCd": "3017011200",
+            "udrtYn": "0",
+            "lnbrMnnm": "1390",
+            "roadAddr": "대전광역시 서구 둔산중로78번길 15 (둔산동)",
+            "lnbrSlno": "0",
+            "buldMnnm": "15",
+            "bdKdcd": "0",
+            "liNm": "",
+            "rnMgtSn": "301704298340",
+            "mtYn": "0",
+            "bdMgtSn": "3017011200113900000018664",
+            "buldSlno": "0"
+          }
+        }
+      },
+      {
+        "_id": "69f67ef653a32fca065d16d1",
+        "id": "u-03743c23-bb60-4512-928e-d9be2418fbdc",
+        "name": "부산고등검찰청장",
+        "address": {
+          "zipNo": "47510",
+          "roadAddrPart1": "부산 연제구 법원로 15",
+          "roadAddrPart2": "(거제동, 부산고등검찰청장)",
+          "original": {
+            "detBdNmList": "",
+            "engAddr": "15 Beobwon-ro, Yeonje-gu, Busan",
+            "rn": "법원로",
+            "emdNm": "거제동",
+            "zipNo": "47510",
+            "roadAddrPart2": " (거제동)",
+            "emdNo": "01",
+            "sggNm": "연제구",
+            "jibunAddr": "부산광역시 연제구 거제동 1501 부산 검찰청 청사",
+            "siNm": "부산광역시",
+            "roadAddrPart1": "부산광역시 연제구 법원로 15",
+            "bdNm": "부산 검찰청 청사",
+            "admCd": "2647010100",
+            "udrtYn": "0",
+            "lnbrMnnm": "1501",
+            "roadAddr": "부산광역시 연제구 법원로 15 (거제동)",
+            "lnbrSlno": "0",
+            "buldMnnm": "15",
+            "bdKdcd": "0",
+            "liNm": "",
+            "rnMgtSn": "264703137013",
+            "mtYn": "0",
+            "bdMgtSn": "2647010100115010000000652",
+            "buldSlno": "0"
+          }
+        }
+      },
+      {
+        "_id": "69f67ef653a32fca065d16d2",
+        "id": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
+        "name": "서울고등검찰청장",
+        "address": {
+          "zipNo": "06594",
+          "roadAddrPart1": "서울 서초구 반포대로 172",
+          "roadAddrPart2": "(서초동, 서울고등검찰청장)",
+          "original": {
+            "detBdNmList": "서울고등검찰청",
+            "engAddr": "172 Banpo-daero, Seocho-gu, Seoul",
+            "rn": "반포대로",
+            "emdNm": "서초동",
+            "zipNo": "06594",
+            "roadAddrPart2": " (서초동)",
+            "emdNo": "03",
+            "sggNm": "서초구",
+            "jibunAddr": "서울특별시 서초구 서초동 1724 서울고등검찰청",
+            "siNm": "서울특별시",
+            "roadAddrPart1": "서울특별시 서초구 반포대로 172",
+            "bdNm": "서울고등검찰청",
+            "admCd": "1165010800",
+            "udrtYn": "0",
+            "lnbrMnnm": "1724",
+            "roadAddr": "서울특별시 서초구 반포대로 172 (서초동)",
+            "lnbrSlno": "0",
+            "buldMnnm": "172",
+            "bdKdcd": "0",
+            "liNm": "",
+            "rnMgtSn": "116502121003",
+            "mtYn": "0",
+            "bdMgtSn": "1165010800117240000021959",
+            "buldSlno": "0"
+          }
+        }
+      }
+    ]
+  }
+}
