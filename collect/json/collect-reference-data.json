@@ -3,7 +3,7 @@
     {
       "id": "u-fdb8e7ac-f40e-4278-bd6f-38bc2dd52f7c",
       "origin": "시스템",
-      "name": "",
+      "name": "스카이",
       "type": "법인",
       "isFinancialInstitution": true,
       "address": {
@@ -12,7 +12,6 @@
         "roadAddrPart2": " (논현동)"
       },
       "representative": {
-        "title": "대표이사",
         "name": "유석현"
       }
     },
@@ -57759,6 +57758,33 @@
         "title": "이사장",
         "name": "최규"
       }
+    },
+    {
+      "id": "u-e335248d-cbd8-4e1b-bf85-06a866f1efe1",
+      "name": "",
+      "address": {
+        "zipNo": "",
+        "roadAddrPart1": "",
+        "roadAddrPart2": ""
+      }
+    },
+    {
+      "id": "u-d8bec730-cfe3-472a-8c80-f5a128c995e8",
+      "name": "",
+      "address": {
+        "zipNo": "",
+        "roadAddrPart1": "",
+        "roadAddrPart2": ""
+      }
+    },
+    {
+      "id": "u-d8595660-dd9d-4707-803f-5a8bb78dd6de",
+      "name": "",
+      "address": {
+        "zipNo": "",
+        "roadAddrPart1": "",
+        "roadAddrPart2": ""
+      }
     }
   ],
   "payingBanks": [
@@ -62042,7 +62068,7 @@
       "_id": "69f736ed69fed2bf24db910b",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "기타",
-      "order": 200
+      "order": "900"
     },
     {
       "_id": "69f736ed69fed2bf24db910c",
