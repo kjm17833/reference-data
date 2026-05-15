@@ -6532,7 +6532,7 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "군산월명신용협동조합",
+      "name": "군산월명 신용협동조합",
       "registrationNumber": "2111410000114",
       "address": {
         "zipNo": "54089",
@@ -7144,7 +7144,7 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "금마신용협동조합",
+      "name": "금마 신용협동조합",
       "registrationNumber": "2150410001871",
       "address": {
         "zipNo": "54572",
@@ -11062,7 +11062,6 @@
         "roadAddrPart2": " (충정로1가)"
       },
       "representative": {
-        "title": "대표이사",
         "name": "강태영"
       }
     },
@@ -32817,13 +32816,13 @@
       "name": "수협은행",
       "registrationNumber": "2442350009895",
       "address": {
-        "zipNo": "",
-        "roadAddrPart1": "서울 송파구 오금로 62 (신천동)",
-        "roadAddrPart2": ""
+        "zipNo": "05510",
+        "roadAddrPart1": "서울 송파구 오금로 62",
+        "roadAddrPart2": " (신천동)"
       },
       "representative": {
-        "title": "은행장",
-        "name": "신학기"
+        "title": "기타",
+        "name": "은행장 신학기"
       }
     },
     {
@@ -45156,7 +45155,7 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "익산신용협동조합",
+      "name": "익산 신용협동조합",
       "registrationNumber": "2150410001847",
       "address": {
         "zipNo": "54511",
@@ -49023,7 +49022,6 @@
         "roadAddrPart2": " (여의도동)"
       },
       "representative": {
-        "title": "대표이사",
         "name": "이환주"
       }
     },
@@ -49074,8 +49072,7 @@
         "roadAddrPart2": " (금암동)"
       },
       "representative": {
-        "title": "대표이사",
-        "name": "백종일"
+        "name": "박춘원"
       }
     },
     {
@@ -49083,16 +49080,15 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "주식회사 카카오뱅크 (KakaoBank Corp.)",
+      "name": "주식회사 카카오뱅크",
       "registrationNumber": "1311110435767",
       "address": {
         "zipNo": "13529",
         "roadAddrPart1": "성남시 분당구 분당내곡로 131",
-        "roadAddrPart2": " (백현동)"
+        "roadAddrPart2": "11층 (백현동, 판교테크원)"
       },
       "representative": {
-        "title": "공동대표이사",
-        "name": "윤호영/주말"
+        "name": "윤호영"
       }
     },
     {
@@ -49100,15 +49096,14 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "주식회사 케이뱅크 (Kbank)",
+      "name": "주식회사 케이뱅크",
       "registrationNumber": "1101115938985",
       "address": {
-        "zipNo": "",
-        "roadAddrPart1": "서울 중구 을지로 170 (을지로4가, 을지트윈타워)",
-        "roadAddrPart2": ""
+        "zipNo": "04548",
+        "roadAddrPart1": "서울 중구 을지로 170",
+        "roadAddrPart2": " (을지로4가, 을지트윈타워)"
       },
       "representative": {
-        "title": "대표이사",
         "name": "최우형"
       }
     },
@@ -49664,13 +49659,13 @@
       "name": "중소기업은행",
       "registrationNumber": "1101350000903",
       "address": {
-        "zipNo": "",
-        "roadAddrPart1": "서울 중구 을지로 79 (을지로2가)",
-        "roadAddrPart2": ""
+        "zipNo": "04541",
+        "roadAddrPart1": "서울 중구 을지로 79",
+        "roadAddrPart2": " (을지로2가)"
       },
       "representative": {
-        "title": "은행장",
-        "name": "김성태"
+        "title": "기타",
+        "name": "은행장 장민영"
       }
     },
     {
@@ -54098,7 +54093,7 @@
       "origin": "시스템",
       "isFinancialInstitution": true,
       "type": "법인",
-      "name": "충청 새마을금고",
+      "name": "충청새마을금고",
       "registrationNumber": "1613440003656",
       "address": {
         "zipNo": "33008",
@@ -54953,10 +54948,9 @@
       "address": {
         "zipNo": "06133",
         "roadAddrPart1": "서울 강남구 테헤란로 131",
-        "roadAddrPart2": " (역삼동)"
+        "roadAddrPart2": "13층 (역삼동, 한국지식재산센터)"
       },
       "representative": {
-        "title": "대표이사",
         "name": "이은미"
       }
     },
@@ -61389,6 +61383,15 @@
     },
     {
       "id": "u-7232c975-d135-4b81-8484-e2f9a57c94d2",
+      "name": "",
+      "address": {
+        "zipNo": "",
+        "roadAddrPart1": "",
+        "roadAddrPart2": ""
+      }
+    },
+    {
+      "id": "u-fcc7c3bd-8dc4-4b84-8b5a-db4d7b6bbc90",
       "name": "",
       "address": {
         "zipNo": "",
