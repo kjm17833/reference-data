@@ -61372,796 +61372,796 @@
   ],
   "payingBanks": [
     {
-      "_id": "6a4c32be4d8bb2122e8a1f12",
+      "_id": "6a4c35314d8bb2122e8a1f58",
       "id": "u-f7g8h9i0-j1k2-4l3m-n4o5-p6q7r8s9t0u1",
       "name": "경남은행",
-      "order": 0
+      "order": "100000"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f13",
+      "_id": "6a4c35314d8bb2122e8a1f59",
       "id": "u-v2w3x4y5-z6a7-4b8c-d9e0-f1g2h3i4j5k6",
       "name": "광주은행",
-      "order": 100
+      "order": "100100"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f14",
+      "_id": "6a4c35314d8bb2122e8a1f5a",
       "id": "u-l7m8n9o0-p1q2-4r3s-t4u5-v6w7x8y9z0a1",
       "name": "국민은행",
-      "order": 200
+      "order": "100200"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f15",
+      "_id": "6a4c35314d8bb2122e8a1f5b",
       "id": "u-b2c3d4e5-f6g7-4h8i-j9k0-l1m2n3o4p5q6",
       "name": "농협은행",
-      "order": 300
+      "order": "100300"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f16",
+      "_id": "6a4c35314d8bb2122e8a1f5c",
       "id": "u-r7s8t9u0-v1w2-4x3y-z4a5-b6c7d8e9f0g1",
       "name": "부산은행",
-      "order": 400
+      "order": "100400"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f17",
+      "_id": "6a4c35314d8bb2122e8a1f5d",
       "id": "u-h2i3j4k5-l6m7-4n8o-p9q0-r1s2t3u4v5w6",
       "name": "신한은행",
-      "order": 500
+      "order": "100500"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f18",
+      "_id": "6a4c35314d8bb2122e8a1f5e",
       "id": "u-x7y8z9a0-b1c2-4d3e-f4g5-h6i7j8k9l0m1",
       "name": "아이엠뱅크(구 대구)",
-      "order": 600
+      "order": "100600"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f19",
+      "_id": "6a4c35314d8bb2122e8a1f5f",
       "id": "u-n2o3p4q5-r6s7-4t8u-v9w0-x1y2z3a4b5c6",
       "name": "우리은행",
-      "order": 700
+      "order": "100700"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1a",
+      "_id": "6a4c35314d8bb2122e8a1f60",
       "id": "u-d7e8f9g0-h1i2-4j3k-l4m5-n6o7p8q9r0s1",
       "name": "전북은행",
-      "order": 800
+      "order": "100800"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1b",
+      "_id": "6a4c35314d8bb2122e8a1f61",
       "id": "u-t2u3v4w5-x6y7-4z8a-b9c0-d1e2f3g4h5i6",
       "name": "하나은행",
-      "order": 900
+      "order": "100900"
     }
   ],
   "refundBanks": [
     {
-      "_id": "6a4c32be050c99717369e4c2",
+      "_id": "6a4c3531bc769b9601b3450d",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "sc제일은행",
-      "order": 0
+      "order": "100000"
     },
     {
-      "_id": "6a4c32be050c99717369e4c3",
+      "_id": "6a4c3531bc769b9601b3450e",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "경남은행",
-      "order": 100
+      "order": "100100"
     },
     {
-      "_id": "6a4c32be050c99717369e4c4",
+      "_id": "6a4c3531bc769b9601b3450f",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "광주은행",
-      "order": 200
+      "order": "100200"
     },
     {
-      "_id": "6a4c32be050c99717369e4c5",
+      "_id": "6a4c3531bc769b9601b34510",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "국민은행",
-      "order": 300
+      "order": "100300"
     },
     {
-      "_id": "6a4c32be050c99717369e4c6",
+      "_id": "6a4c3531bc769b9601b34511",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "기업은행",
-      "order": 400
+      "order": "100400"
     },
     {
-      "_id": "6a4c32be050c99717369e4c7",
+      "_id": "6a4c3531bc769b9601b34512",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "농협은행",
-      "order": 500
+      "order": "100500"
     },
     {
-      "_id": "6a4c32be050c99717369e4c8",
+      "_id": "6a4c3531bc769b9601b34513",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "부산은행",
-      "order": 600
+      "order": "100600"
     },
     {
-      "_id": "6a4c32be050c99717369e4c9",
+      "_id": "6a4c3531bc769b9601b34514",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "산림조합중앙회",
-      "order": 700
+      "order": "100700"
     },
     {
-      "_id": "6a4c32be050c99717369e4ca",
+      "_id": "6a4c3531bc769b9601b34515",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "산업은행",
-      "order": 800
+      "order": "100800"
     },
     {
-      "_id": "6a4c32be050c99717369e4cb",
+      "_id": "6a4c3531bc769b9601b34516",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "상호저축은행",
-      "order": 900
+      "order": "100900"
     },
     {
-      "_id": "6a4c32be050c99717369e4cc",
+      "_id": "6a4c3531bc769b9601b34517",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "새마을금고",
-      "order": 1000
+      "order": "101000"
     },
     {
-      "_id": "6a4c32be050c99717369e4cd",
+      "_id": "6a4c3531bc769b9601b34518",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "수협은행",
-      "order": 1100
+      "order": "101100"
     },
     {
-      "_id": "6a4c32be050c99717369e4ce",
+      "_id": "6a4c3531bc769b9601b34519",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "신한은행",
-      "order": 1200
+      "order": "101200"
     },
     {
-      "_id": "6a4c32be050c99717369e4cf",
+      "_id": "6a4c3531bc769b9601b3451a",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "신협",
-      "order": 1300
+      "order": "101300"
     },
     {
-      "_id": "6a4c32be050c99717369e4d0",
+      "_id": "6a4c3531bc769b9601b3451b",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "아이엠뱅크(구 대구)",
-      "order": 1400
+      "order": "101400"
     },
     {
-      "_id": "6a4c32be050c99717369e4d1",
+      "_id": "6a4c3531bc769b9601b3451c",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "우리은행",
-      "order": 1500
+      "order": "101500"
     },
     {
-      "_id": "6a4c32be050c99717369e4d2",
+      "_id": "6a4c3531bc769b9601b3451d",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "우체국",
-      "order": 1600
+      "order": "101600"
     },
     {
-      "_id": "6a4c32be050c99717369e4d3",
+      "_id": "6a4c3531bc769b9601b3451e",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "전북은행",
-      "order": 1700
+      "order": "101700"
     },
     {
-      "_id": "6a4c32be050c99717369e4d4",
+      "_id": "6a4c3531bc769b9601b3451f",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "제주은행",
-      "order": 1800
+      "order": "101800"
     },
     {
-      "_id": "6a4c32be050c99717369e4d5",
+      "_id": "6a4c3531bc769b9601b34520",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "지역농축협",
-      "order": 1900
+      "order": "101900"
     },
     {
-      "_id": "6a4c32be050c99717369e4d6",
+      "_id": "6a4c3531bc769b9601b34521",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "하나은행",
-      "order": 2000
+      "order": "102000"
     },
     {
-      "_id": "6a4c32be050c99717369e4d7",
+      "_id": "6a4c3531bc769b9601b34522",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "한국씨티은행",
-      "order": 2100
+      "order": "102100"
     }
   ],
   "executionCourts": [
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1c",
+      "_id": "6a4c3531050c99717369e5c5",
       "id": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
       "code": "9740708",
-      "order": 510000,
+      "order": "510000",
       "name": "광주지방법원",
       "shortName": "광주지법",
       "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "label": "광주지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1d",
+      "_id": "6a4c3531050c99717369e5c6",
       "id": "u-74aefa84-ae94-4559-a594-610227def29f",
       "code": "9740717",
-      "order": 511000,
+      "order": "511000",
       "name": "광주지방법원 목포지원",
       "shortName": "목포지원",
       "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "label": "광주지법 목포지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1e",
+      "_id": "6a4c3531050c99717369e5c7",
       "id": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
       "code": "9740723",
-      "order": 513000,
+      "order": "513000",
       "name": "광주지방법원 순천지원",
       "shortName": "순천지원",
       "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "label": "광주지법 순천지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f1f",
+      "_id": "6a4c3531050c99717369e5c8",
       "id": "u-0bf2b7d7-c3d8-42b2-960a-bd1a1c546e06",
       "code": "9740721",
-      "order": 512000,
+      "order": "512000",
       "name": "광주지방법원 장흥지원",
       "shortName": "장흥지원",
       "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "label": "광주지법 장흥지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f20",
+      "_id": "6a4c3531050c99717369e5c9",
       "id": "u-52cdb1b4-efc1-4eef-8377-878e17b32ac0",
       "code": "9740728",
-      "order": 514000,
+      "order": "514000",
       "name": "광주지방법원 해남지원",
       "shortName": "해남지원",
       "subjectToServiceId": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "label": "광주지법 해남지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f21",
+      "_id": "6a4c3531050c99717369e5ca",
       "id": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
       "code": "9740510",
-      "order": 310000,
+      "order": "310000",
       "name": "대구지방법원",
       "shortName": "대구지법",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f22",
+      "_id": "6a4c3531050c99717369e5cb",
       "id": "u-f9f62e44-6aa4-4a4d-bdd5-f35e9fd1a898",
       "code": "9740522",
-      "order": 312000,
+      "order": "312000",
       "name": "대구지방법원 경주지원",
       "shortName": "경주지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 경주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f23",
+      "_id": "6a4c3531050c99717369e5cc",
       "id": "u-49257a3b-e817-47ed-bf54-0a83c7863051",
       "code": "9740526",
-      "order": 313000,
+      "order": "313000",
       "name": "대구지방법원 김천지원",
       "shortName": "김천지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 김천지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f24",
+      "_id": "6a4c3531050c99717369e5cd",
       "id": "u-adaa8033-a96f-41cc-b46c-0eb882a5e029",
       "code": "9740528",
-      "order": 314000,
+      "order": "314000",
       "name": "대구지방법원 상주지원",
       "shortName": "상주지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 상주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f25",
+      "_id": "6a4c3531050c99717369e5ce",
       "id": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
       "code": "9741366",
-      "order": 320000,
+      "order": "320000",
       "name": "대구지방법원 서부지원",
       "shortName": "대구지법 서부지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 서부지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f26",
+      "_id": "6a4c3531050c99717369e5cf",
       "id": "u-3bcfda85-4c63-4307-b4ee-f877f5395f68",
       "code": "9740520",
-      "order": 311000,
+      "order": "311000",
       "name": "대구지방법원 안동지원",
       "shortName": "안동지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 안동지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f27",
+      "_id": "6a4c3531050c99717369e5d0",
       "id": "u-e10f5e66-7ad2-4dce-9a31-d010120577da",
       "code": "9740532",
-      "order": 316000,
+      "order": "316000",
       "name": "대구지방법원 영덕지원",
       "shortName": "영덕지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 영덕지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f28",
+      "_id": "6a4c3531050c99717369e5d1",
       "id": "u-aa5d03f8-9569-420a-a239-948fa61c596a",
       "code": "9740530",
-      "order": 315000,
+      "order": "315000",
       "name": "대구지방법원 의성지원",
       "shortName": "의성지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 의성지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f29",
+      "_id": "6a4c3531050c99717369e5d2",
       "id": "u-abc0523d-718a-4171-8838-acaefd08cd1f",
       "code": "9740534",
-      "order": 317000,
+      "order": "317000",
       "name": "대구지방법원 포항지원",
       "shortName": "포항지원",
       "subjectToServiceId": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "label": "대구지법 포항지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2a",
+      "_id": "6a4c3531050c99717369e5d3",
       "id": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
       "code": "9740421",
-      "order": 280000,
+      "order": "280000",
       "name": "대전지방법원",
       "shortName": "대전지법",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2b",
+      "_id": "6a4c3531050c99717369e5d4",
       "id": "u-45b4f038-65c6-4376-b691-74b86a15c62b",
       "code": "9740438",
-      "order": 284000,
+      "order": "284000",
       "name": "대전지방법원 공주지원",
       "shortName": "공주지원",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지법 공주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2c",
+      "_id": "6a4c3531050c99717369e5d5",
       "id": "u-47891c65-55d4-4cf5-80f5-e8e14625e604",
       "code": "9740432",
-      "order": 282000,
+      "order": "282000",
       "name": "대전지방법원 논산지원",
       "shortName": "논산지원",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지법 논산지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2d",
+      "_id": "6a4c3531050c99717369e5d6",
       "id": "u-ca7ed60b-de45-4bb7-99da-f77c28ddecfd",
       "code": "9740440",
-      "order": 285000,
+      "order": "285000",
       "name": "대전지방법원 서산지원",
       "shortName": "서산지원",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지법 서산지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2e",
+      "_id": "6a4c3531050c99717369e5d7",
       "id": "u-338d6ccd-c5ca-4e56-bc06-9986671ca076",
       "code": "9740434",
-      "order": 283000,
+      "order": "283000",
       "name": "대전지방법원 천안지원",
       "shortName": "천안지원",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지법 천안지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f2f",
+      "_id": "6a4c3531050c99717369e5d8",
       "id": "u-a858586c-5e86-45a0-990e-a1ae027dcb90",
       "code": "9740428",
-      "order": 281000,
+      "order": "281000",
       "name": "대전지방법원 홍성지원",
       "shortName": "홍성지원",
       "subjectToServiceId": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "label": "대전지법 홍성지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f30",
+      "_id": "6a4c3531050c99717369e5d9",
       "id": "u-2a98310a-8306-443e-9b8f-787693a62869",
       "code": "9740597",
-      "order": 410000,
+      "order": "410000",
       "name": "부산지방법원",
       "shortName": "부산지법",
       "subjectToServiceId": "u-03743c23-bb60-4512-928e-d9be2418fbdc",
       "label": "부산지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f31",
+      "_id": "6a4c3531050c99717369e5da",
       "id": "u-046203f7-ce6c-4c00-8a9a-a49b523b2667",
       "code": "9740623",
-      "order": 412000,
+      "order": "412000",
       "name": "부산지방법원 동부지원",
       "shortName": "부산지법 동부지원",
       "subjectToServiceId": "u-03743c23-bb60-4512-928e-d9be2418fbdc",
       "label": "부산지법 동부지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f32",
+      "_id": "6a4c3531050c99717369e5db",
       "id": "u-a295c759-1309-4934-9039-2ca00b7109a0",
       "code": "9741737",
-      "order": 414000,
+      "order": "414000",
       "name": "부산지방법원 서부지원",
       "shortName": "부산지법 서부지원",
       "subjectToServiceId": "u-03743c23-bb60-4512-928e-d9be2418fbdc",
       "label": "부산지법 서부지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f33",
+      "_id": "6a4c3531050c99717369e5dc",
       "id": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
       "code": "9740961",
-      "order": 212000,
+      "order": "212000",
       "name": "서울남부지방법원",
       "shortName": "서울남부지법",
       "subjectToServiceId": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "label": "서울남부지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f34",
+      "_id": "6a4c3531050c99717369e5dd",
       "id": "u-14dc24ac-f376-4dff-a69e-ee2d44fb057e",
       "code": "9740894",
-      "order": 211000,
+      "order": "211000",
       "name": "서울동부지방법원",
       "shortName": "서울동부지법",
       "subjectToServiceId": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "label": "서울동부지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f35",
+      "_id": "6a4c3531050c99717369e5de",
       "id": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
       "code": "9740971",
-      "order": 213000,
+      "order": "213000",
       "name": "서울북부지방법원",
       "shortName": "서울북부지법",
       "subjectToServiceId": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "label": "서울북부지법"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f36",
+      "_id": "6a4c3531050c99717369e5df",
       "id": "u-4fb58886-7a46-4466-86c7-a0af07196380",
       "code": "9740981",
-      "order": 215000,
+      "order": "215000",
       "name": "서울서부지방법원",
       "shortName": "서울서부지법",
       "subjectToServiceId": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "label": "서울서부지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f37",
+      "_id": "6a4c3531050c99717369e5e0",
       "id": "u-7545309e-a505-4095-8dea-af88fa4a6803",
       "code": "9740922",
-      "order": 210000,
+      "order": "210000",
       "name": "서울중앙지방법원",
       "shortName": "서울중앙지법",
       "subjectToServiceId": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "label": "서울중앙지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f38",
+      "_id": "6a4c3531050c99717369e5e1",
       "id": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
       "code": "9740315",
-      "order": 250000,
+      "order": "250000",
       "name": "수원지방법원",
       "shortName": "수원지법",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f39",
+      "_id": "6a4c3531050c99717369e5e2",
       "id": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
       "code": "9740323",
-      "order": 251000,
+      "order": "251000",
       "name": "수원지방법원 성남지원",
       "shortName": "성남지원",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지법 성남지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3a",
+      "_id": "6a4c3531050c99717369e5e3",
       "id": "u-591ad04d-31b2-402d-80ac-e93dace9e842",
       "code": "9740879",
-      "order": 250826,
+      "order": "250826",
       "name": "수원지방법원 안산지원",
       "shortName": "안산지원",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지법 안산지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3b",
+      "_id": "6a4c3531050c99717369e5e4",
       "id": "u-809c99af-7d4b-4643-a120-81828164abf2",
       "code": "9741445",
-      "order": 254000,
+      "order": "254000",
       "name": "수원지방법원 안양지원",
       "shortName": "안양지원",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지법 안양지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3c",
+      "_id": "6a4c3531050c99717369e5e5",
       "id": "u-62abe4a0-f2c9-4183-acdf-cdf5523fa162",
       "code": "9740328",
-      "order": 252000,
+      "order": "252000",
       "name": "수원지방법원 여주지원",
       "shortName": "여주지원",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지법 여주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3d",
+      "_id": "6a4c3531050c99717369e5e6",
       "id": "u-4bc0239b-2bc5-4069-89b4-0cfd6062a356",
       "code": "9740330",
-      "order": 253000,
+      "order": "253000",
       "name": "수원지방법원 평택지원",
       "shortName": "평택지원",
       "subjectToServiceId": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "label": "수원지법 평택지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3e",
+      "_id": "6a4c3531050c99717369e5e7",
       "id": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
       "code": "9740609",
-      "order": 411000,
+      "order": "411000",
       "name": "울산지방법원",
       "shortName": "울산지법",
       "subjectToServiceId": "u-45b33d8c-e7c8-42a2-b279-863ad74d1c9f",
       "label": "울산지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f3f",
+      "_id": "6a4c3531050c99717369e5e8",
       "id": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
       "code": "9740991",
-      "order": 214000,
+      "order": "214000",
       "name": "의정부지방법원",
       "shortName": "의정부지법",
       "subjectToServiceId": "u-027bad30-e462-491d-8f18-8be285493bc7",
       "label": "의정부지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f40",
+      "_id": "6a4c3531050c99717369e5e9",
       "id": "u-cf9838d6-9e5e-499c-b8fb-bdaaf064677b",
       "code": "9741011",
-      "order": 214807,
+      "order": "214807",
       "name": "의정부지방법원 고양지원",
       "shortName": "고양지원",
       "subjectToServiceId": "u-027bad30-e462-491d-8f18-8be285493bc7",
       "label": "의정부지법 고양지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f41",
+      "_id": "6a4c3531050c99717369e5ea",
       "id": "u-8ce5d0ab-3827-4b24-bfd5-254b170ba2a2",
       "code": "9741831",
-      "order": 214804,
+      "order": "214804",
       "name": "의정부지방법원 남양주지원",
       "shortName": "남양주지원",
       "subjectToServiceId": "u-027bad30-e462-491d-8f18-8be285493bc7",
       "label": "의정부지법 남양주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f42",
+      "_id": "6a4c3531050c99717369e5eb",
       "id": "u-eb01682e-61d2-4803-b094-10f6f524f948",
       "code": "9740288",
-      "order": 240000,
+      "order": "240000",
       "name": "인천지방법원",
       "shortName": "인천지법",
       "subjectToServiceId": "u-4804e9c8-6e09-427d-899f-599694684421",
       "label": "인천지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f43",
+      "_id": "6a4c3531050c99717369e5ec",
       "id": "u-484b0de7-cb7d-40e4-8fe4-dbe6a1927039",
       "code": "9740297",
-      "order": 241000,
+      "order": "241000",
       "name": "인천지방법원 부천지원",
       "shortName": "부천지원",
       "subjectToServiceId": "u-4804e9c8-6e09-427d-899f-599694684421",
       "label": "인천지법 부천지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f44",
+      "_id": "6a4c3531050c99717369e5ed",
       "id": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
       "code": "9740794",
-      "order": 520000,
+      "order": "520000",
       "name": "전주지방법원",
       "shortName": "전주지법",
       "subjectToServiceId": "u-20c60ef5-8440-4892-a170-2ce40e0ac024",
       "label": "전주지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f45",
+      "_id": "6a4c3531050c99717369e5ee",
       "id": "u-553562cc-6cc1-427a-bdc8-b091a01c86bc",
       "code": "9740800",
-      "order": 521000,
+      "order": "521000",
       "name": "전주지방법원 군산지원",
       "shortName": "군산지원",
       "subjectToServiceId": "u-20c60ef5-8440-4892-a170-2ce40e0ac024",
       "label": "전주지법 군산지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f46",
+      "_id": "6a4c3531050c99717369e5ef",
       "id": "u-ced87051-cea5-40de-8c70-29db4380203d",
       "code": "9740806",
-      "order": 523000,
+      "order": "523000",
       "name": "전주지방법원 남원지원",
       "shortName": "남원지원",
       "subjectToServiceId": "u-20c60ef5-8440-4892-a170-2ce40e0ac024",
       "label": "전주지법 남원지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f47",
+      "_id": "6a4c3531050c99717369e5f0",
       "id": "u-43753b27-67d4-485c-aa3b-576040c5549d",
       "code": "9740804",
-      "order": 522000,
+      "order": "522000",
       "name": "전주지방법원 정읍지원",
       "shortName": "정읍지원",
       "subjectToServiceId": "u-20c60ef5-8440-4892-a170-2ce40e0ac024",
       "label": "전주지법 정읍지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f48",
+      "_id": "6a4c3531050c99717369e5f1",
       "id": "u-7adadc14-4a94-48da-99fc-7616be8cc272",
       "code": "9740838",
-      "order": 530000,
+      "order": "530000",
       "name": "제주지방법원",
       "shortName": "제주지법",
       "subjectToServiceId": "u-4acbd684-9c9a-4992-83bb-c3fd88d85f82",
       "label": "제주지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f49",
+      "_id": "6a4c3531050c99717369e5f2",
       "id": "u-077281ca-a49e-46ff-9269-d7fc6db65611",
       "code": "9740641",
-      "order": 420000,
+      "order": "420000",
       "name": "창원지방법원",
       "shortName": "창원지법",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4a",
+      "_id": "6a4c3531050c99717369e5f3",
       "id": "u-5b7f5e94-1024-40da-8410-48ed8738e27e",
       "code": "9740656",
-      "order": 424000,
+      "order": "424000",
       "name": "창원지방법원 거창지원",
       "shortName": "거창지원",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지법 거창지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4b",
+      "_id": "6a4c3531050c99717369e5f4",
       "id": "u-8d7c1cb9-abf1-40cd-97b2-41ad3067d8f0",
       "code": "9741492",
-      "order": 431000,
+      "order": "431000",
       "name": "창원지방법원 마산지원",
       "shortName": "마산지원",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지법 마산지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4c",
+      "_id": "6a4c3531050c99717369e5f5",
       "id": "u-5f20b195-424e-48a0-8845-805c87a64b67",
       "code": "9740654",
-      "order": 423000,
+      "order": "423000",
       "name": "창원지방법원 밀양지원",
       "shortName": "밀양지원",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지법 밀양지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4d",
+      "_id": "6a4c3531050c99717369e5f6",
       "id": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
       "code": "9740648",
-      "order": 421000,
+      "order": "421000",
       "name": "창원지방법원 진주지원",
       "shortName": "진주지원",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지법 진주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4e",
+      "_id": "6a4c3531050c99717369e5f7",
       "id": "u-0ac5df6e-a67f-4794-bbb9-c74ecab5a2ae",
       "code": "9740652",
-      "order": 422000,
+      "order": "422000",
       "name": "창원지방법원 통영지원",
       "shortName": "통영지원",
       "subjectToServiceId": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "label": "창원지법 통영지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f4f",
+      "_id": "6a4c3531050c99717369e5f8",
       "id": "u-92d35dba-261d-4456-90b1-dfa883d89621",
       "code": "9740475",
-      "order": 270000,
+      "order": "270000",
       "name": "청주지방법원",
       "shortName": "청주지법",
       "subjectToServiceId": "u-47755abd-27b0-4291-9891-48b0ec0f12bd",
       "label": "청주지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f50",
+      "_id": "6a4c3531050c99717369e5f9",
       "id": "u-916cc11b-4cc2-445c-a1e6-a7b00f42aead",
       "code": "9740485",
-      "order": 273000,
+      "order": "273000",
       "name": "청주지방법원 영동지원",
       "shortName": "영동지원",
       "subjectToServiceId": "u-47755abd-27b0-4291-9891-48b0ec0f12bd",
       "label": "청주지법 영동지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f51",
+      "_id": "6a4c3531050c99717369e5fa",
       "id": "u-a4c9cf01-24f6-4886-b8c0-772189da9054",
       "code": "9740483",
-      "order": 272000,
+      "order": "272000",
       "name": "청주지방법원 제천지원",
       "shortName": "제천지원",
       "subjectToServiceId": "u-47755abd-27b0-4291-9891-48b0ec0f12bd",
       "label": "청주지법 제천지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f52",
+      "_id": "6a4c3531050c99717369e5fb",
       "id": "u-9ad10ebf-e5cc-4fce-9e4d-a3cd8d47bd24",
       "code": "9740481",
-      "order": 271000,
+      "order": "271000",
       "name": "청주지방법원 충주지원",
       "shortName": "충주지원",
       "subjectToServiceId": "u-47755abd-27b0-4291-9891-48b0ec0f12bd",
       "label": "청주지법 충주지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f53",
+      "_id": "6a4c3531050c99717369e5fc",
       "id": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
       "code": "9740365",
-      "order": 260000,
+      "order": "260000",
       "name": "춘천지방법원",
       "shortName": "춘천지법",
       "subjectToServiceId": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
       "label": "춘천지방법원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f54",
+      "_id": "6a4c3531050c99717369e5fd",
       "id": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a",
       "code": "9740371",
-      "order": 261000,
+      "order": "261000",
       "name": "춘천지방법원 강릉지원",
       "shortName": "강릉지원",
       "subjectToServiceId": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
       "label": "춘천지법 강릉지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f55",
+      "_id": "6a4c3531050c99717369e5fe",
       "id": "u-160e2fb8-8f5c-4213-b743-24197367fc3b",
       "code": "9740377",
-      "order": 263000,
+      "order": "263000",
       "name": "춘천지방법원 속초지원",
       "shortName": "속초지원",
       "subjectToServiceId": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
       "label": "춘천지법 속초지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f56",
+      "_id": "6a4c3531050c99717369e5ff",
       "id": "u-4315094b-7d31-47bf-8cc7-f253439a24e0",
       "code": "9740379",
-      "order": 264000,
+      "order": "264000",
       "name": "춘천지방법원 영월지원",
       "shortName": "영월지원",
       "subjectToServiceId": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
       "label": "춘천지법 영월지원"
     },
     {
-      "_id": "6a4c32be4d8bb2122e8a1f57",
+      "_id": "6a4c3531050c99717369e600",
       "id": "u-15df6ebb-4073-4e7f-b868-171d21357607",
       "code": "9740375",
-      "order": 262000,
+      "order": "262000",
       "name": "춘천지방법원 원주지원",
       "shortName": "원주지원",
       "subjectToServiceId": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
@@ -62170,4043 +62170,4043 @@
   ],
   "issuingCourts": [
     {
-      "_id": "6a4c32be050c99717369e4d8",
+      "_id": "6a4c35314d8bb2122e8a1f62",
       "id": "u-a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
       "name": "대법원",
-      "order": 0,
+      "order": "100000",
       "label": "대법원",
       "shortName": "대법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4d9",
+      "_id": "6a4c35314d8bb2122e8a1f63",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "서울고등법원",
-      "order": 100,
+      "order": "100100",
       "label": "서울고등법원",
       "shortName": "서울고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4da",
+      "_id": "6a4c35314d8bb2122e8a1f64",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "서울고등법원(춘천재판부)",
-      "order": 200,
+      "order": "100200",
       "label": "서울고등법원(춘천재판부)",
       "shortName": "서울고등법원(춘천재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4db",
+      "_id": "6a4c35314d8bb2122e8a1f65",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "서울고등법원(인천재판부)",
-      "order": 300,
+      "order": "100300",
       "label": "서울고등법원(인천재판부)",
       "shortName": "서울고등법원(인천재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4dc",
+      "_id": "6a4c35314d8bb2122e8a1f66",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "대전고등법원",
-      "order": 400,
+      "order": "100400",
       "label": "대전고등법원",
       "shortName": "대전고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4dd",
+      "_id": "6a4c35314d8bb2122e8a1f67",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "대전고등법원(청주재판부)",
-      "order": 500,
+      "order": "100500",
       "label": "대전고등법원(청주재판부)",
       "shortName": "대전고등법원(청주재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4de",
+      "_id": "6a4c35314d8bb2122e8a1f68",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "대구고등법원",
-      "order": 600,
+      "order": "100600",
       "label": "대구고등법원",
       "shortName": "대구고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4df",
+      "_id": "6a4c35314d8bb2122e8a1f69",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "부산고등법원",
-      "order": 700,
+      "order": "100700",
       "label": "부산고등법원",
       "shortName": "부산고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e0",
+      "_id": "6a4c35314d8bb2122e8a1f6a",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "부산고등법원(창원재판부)",
-      "order": 800,
+      "order": "100800",
       "label": "부산고등법원(창원재판부)",
       "shortName": "부산고등법원(창원재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4e1",
+      "_id": "6a4c35314d8bb2122e8a1f6b",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "부산고등법원(울산재판부)",
-      "order": 900,
+      "order": "100900",
       "label": "부산고등법원(울산재판부)",
       "shortName": "부산고등법원(울산재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4e2",
+      "_id": "6a4c35314d8bb2122e8a1f6c",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "광주고등법원",
-      "order": 1000,
+      "order": "101000",
       "label": "광주고등법원",
       "shortName": "광주고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e3",
+      "_id": "6a4c35314d8bb2122e8a1f6d",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "광주고등법원(제주재판부)",
-      "order": 1100,
+      "order": "101100",
       "label": "광주고등법원(제주재판부)",
       "shortName": "광주고등법원(제주재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4e4",
+      "_id": "6a4c35314d8bb2122e8a1f6e",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "광주고등법원(전주재판부)",
-      "order": 1200,
+      "order": "101200",
       "label": "광주고등법원(전주재판부)",
       "shortName": "광주고등법원(전주재판부)"
     },
     {
-      "_id": "6a4c32be050c99717369e4e5",
+      "_id": "6a4c35314d8bb2122e8a1f6f",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "수원고등법원",
-      "order": 1300,
+      "order": "101300",
       "label": "수원고등법원",
       "shortName": "수원고등법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e6",
+      "_id": "6a4c35314d8bb2122e8a1f70",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "특허법원",
-      "order": 1400,
+      "order": "101400",
       "label": "특허법원",
       "shortName": "특허법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e7",
+      "_id": "6a4c35314d8bb2122e8a1f71",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "서울가정법원",
-      "order": 1500,
+      "order": "101500",
       "label": "서울가정법원",
       "shortName": "서울가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e8",
+      "_id": "6a4c35314d8bb2122e8a1f72",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "서울행정법원",
-      "order": 1600,
+      "order": "101600",
       "label": "서울행정법원",
       "shortName": "서울행정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4e9",
+      "_id": "6a4c35314d8bb2122e8a1f73",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "서울회생법원",
-      "order": 1700,
+      "order": "101700",
       "label": "서울회생법원",
       "shortName": "서울회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ea",
+      "_id": "6a4c35314d8bb2122e8a1f74",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "서울중앙지방법원",
-      "order": 1800,
+      "order": "101800",
       "label": "서울중앙지방법원",
       "shortName": "서울중앙지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4eb",
+      "_id": "6a4c35314d8bb2122e8a1f75",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "서울동부지방법원",
-      "order": 1900,
+      "order": "101900",
       "label": "서울동부지방법원",
       "shortName": "서울동부지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ec",
+      "_id": "6a4c35314d8bb2122e8a1f76",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "서울남부지방법원",
-      "order": 2000,
+      "order": "102000",
       "label": "서울남부지방법원",
       "shortName": "서울남부지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ed",
+      "_id": "6a4c35314d8bb2122e8a1f77",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "서울북부지방법원",
-      "order": 2100,
+      "order": "102100",
       "label": "서울북부지방법원",
       "shortName": "서울북부지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ee",
+      "_id": "6a4c35314d8bb2122e8a1f78",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "서울서부지방법원",
-      "order": 2200,
+      "order": "102200",
       "label": "서울서부지방법원",
       "shortName": "서울서부지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ef",
+      "_id": "6a4c35314d8bb2122e8a1f79",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "의정부지방법원",
-      "order": 2300,
+      "order": "102300",
       "label": "의정부지방법원",
       "shortName": "의정부지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f0",
+      "_id": "6a4c35314d8bb2122e8a1f7a",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "의정부지방법원 고양지원",
-      "order": 2400,
+      "order": "102400",
       "label": "고양지원",
       "shortName": "고양지원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f1",
+      "_id": "6a4c35314d8bb2122e8a1f7b",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "의정부지방법원 남양주지원",
-      "order": 2500,
+      "order": "102500",
       "label": "남양주지원",
       "shortName": "남양주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f2",
+      "_id": "6a4c35314d8bb2122e8a1f7c",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "의정부지방법원 고양지원 파주시법원",
-      "order": 2600,
+      "order": "102600",
       "label": "파주시법원",
       "shortName": "파주시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f3",
+      "_id": "6a4c35314d8bb2122e8a1f7d",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "의정부지방법원 포천시법원",
-      "order": 2700,
+      "order": "102700",
       "label": "포천시법원",
       "shortName": "포천시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f4",
+      "_id": "6a4c35314d8bb2122e8a1f7e",
       "id": "u-2ada9afc-17f3-4645-bb4d-729619a1ce1d",
       "name": "의정부지방법원 동두천시법원",
-      "order": 2800,
+      "order": "102800",
       "label": "동두천시법원",
       "shortName": "동두천시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f5",
+      "_id": "6a4c35314d8bb2122e8a1f7f",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "의정부지방법원 남양주지원 가평군법원",
-      "order": 2900,
+      "order": "102900",
       "label": "가평군법원",
       "shortName": "가평군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f6",
+      "_id": "6a4c35314d8bb2122e8a1f80",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "의정부지방법원 연천군법원",
-      "order": 3000,
+      "order": "103000",
       "label": "연천군법원",
       "shortName": "연천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f7",
+      "_id": "6a4c35314d8bb2122e8a1f81",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "의정부지방법원 철원군법원",
-      "order": 3100,
+      "order": "103100",
       "label": "철원군법원",
       "shortName": "철원군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f8",
+      "_id": "6a4c35314d8bb2122e8a1f82",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "인천지방법원",
-      "order": 3200,
+      "order": "103200",
       "label": "인천지방법원",
       "shortName": "인천지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4f9",
+      "_id": "6a4c35314d8bb2122e8a1f83",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "인천지방법원 부천지원",
-      "order": 3300,
+      "order": "103300",
       "label": "부천지원",
       "shortName": "부천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e4fa",
+      "_id": "6a4c35314d8bb2122e8a1f84",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "인천지방법원 부천지원 김포시법원",
-      "order": 3400,
+      "order": "103400",
       "label": "김포시법원",
       "shortName": "김포시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4fb",
+      "_id": "6a4c35314d8bb2122e8a1f85",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "인천지방법원 강화군법원",
-      "order": 3500,
+      "order": "103500",
       "label": "강화군법원",
       "shortName": "강화군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4fc",
+      "_id": "6a4c35314d8bb2122e8a1f86",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "인천가정법원",
-      "order": 3600,
+      "order": "103600",
       "label": "인천가정법원",
       "shortName": "인천가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4fd",
+      "_id": "6a4c35314d8bb2122e8a1f87",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "인천가정법원 부천지원",
-      "order": 3700,
+      "order": "103700",
       "label": "인천가정법원 부천지원",
       "shortName": "인천가정법원 부천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e4fe",
+      "_id": "6a4c35314d8bb2122e8a1f88",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "수원지방법원",
-      "order": 3800,
+      "order": "103800",
       "label": "수원지방법원",
       "shortName": "수원지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e4ff",
+      "_id": "6a4c35314d8bb2122e8a1f89",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "수원지방법원 성남지원",
-      "order": 3900,
+      "order": "103900",
       "label": "성남지원",
       "shortName": "성남지원"
     },
     {
-      "_id": "6a4c32be050c99717369e500",
+      "_id": "6a4c35314d8bb2122e8a1f8a",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "수원지방법원 여주지원",
-      "order": 4000,
+      "order": "104000",
       "label": "여주지원",
       "shortName": "여주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e501",
+      "_id": "6a4c35314d8bb2122e8a1f8b",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "수원지방법원 평택지원",
-      "order": 4100,
+      "order": "104100",
       "label": "평택지원",
       "shortName": "평택지원"
     },
     {
-      "_id": "6a4c32be050c99717369e502",
+      "_id": "6a4c35314d8bb2122e8a1f8c",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "수원지방법원 안산지원",
-      "order": 4200,
+      "order": "104200",
       "label": "안산지원",
       "shortName": "안산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e503",
+      "_id": "6a4c35314d8bb2122e8a1f8d",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "수원지방법원 안양지원",
-      "order": 4300,
+      "order": "104300",
       "label": "안양지원",
       "shortName": "안양지원"
     },
     {
-      "_id": "6a4c32be050c99717369e504",
+      "_id": "6a4c35314d8bb2122e8a1f8e",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "수원지방법원 용인시법원",
-      "order": 4400,
+      "order": "104400",
       "label": "용인시법원",
       "shortName": "용인시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e505",
+      "_id": "6a4c35314d8bb2122e8a1f8f",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "수원지방법원 오산시법원",
-      "order": 4500,
+      "order": "104500",
       "label": "오산시법원",
       "shortName": "오산시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e506",
+      "_id": "6a4c35314d8bb2122e8a1f90",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "수원지방법원 안산지원 광명시법원",
-      "order": 4600,
+      "order": "104600",
       "label": "광명시법원",
       "shortName": "광명시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e507",
+      "_id": "6a4c35314d8bb2122e8a1f91",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "수원지방법원 평택지원 안성시법원",
-      "order": 4700,
+      "order": "104700",
       "label": "안성시법원",
       "shortName": "안성시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e508",
+      "_id": "6a4c35314d8bb2122e8a1f92",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "수원지방법원 성남지원 광주시법원",
-      "order": 4800,
+      "order": "104800",
       "label": "광주시법원",
       "shortName": "광주시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e509",
+      "_id": "6a4c35314d8bb2122e8a1f93",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "수워지방법원 여주지원 양평군법원",
-      "order": 4900,
+      "order": "104900",
       "label": "양평군법원",
       "shortName": "양평군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e50a",
+      "_id": "6a4c35314d8bb2122e8a1f94",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "수원지방법원 여주지원 이천시법원",
-      "order": 5000,
+      "order": "105000",
       "label": "이천시법원",
       "shortName": "이천시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e50b",
+      "_id": "6a4c35314d8bb2122e8a1f95",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "수원가정법원",
-      "order": 5100,
+      "order": "105100",
       "label": "수원가정법원",
       "shortName": "수원가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e50c",
+      "_id": "6a4c35314d8bb2122e8a1f96",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "수원가정법원 성남지원",
-      "order": 5200,
+      "order": "105200",
       "label": "수원가정법원 성남지원",
       "shortName": "수원가정법원 성남지원"
     },
     {
-      "_id": "6a4c32be050c99717369e50d",
+      "_id": "6a4c35314d8bb2122e8a1f97",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "수원가정법원 여주지원",
-      "order": 5300,
+      "order": "105300",
       "label": "수원가정법원 여주지원",
       "shortName": "수원가정법원 여주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e50e",
+      "_id": "6a4c35314d8bb2122e8a1f98",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "수원가정법원 평택지원",
-      "order": 5400,
+      "order": "105400",
       "label": "수원가정법원 평택지원",
       "shortName": "수원가정법원 평택지원"
     },
     {
-      "_id": "6a4c32be050c99717369e50f",
+      "_id": "6a4c35314d8bb2122e8a1f99",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "수원가정법원 안산지원",
-      "order": 5500,
+      "order": "105500",
       "label": "수원가정법원 안산지원",
       "shortName": "수원가정법원 안산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e510",
+      "_id": "6a4c35314d8bb2122e8a1f9a",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "수원가정법원 안양지원",
-      "order": 5600,
+      "order": "105600",
       "label": "수원가정법원 안양지원",
       "shortName": "수원가정법원 안양지원"
     },
     {
-      "_id": "6a4c32be050c99717369e511",
+      "_id": "6a4c35314d8bb2122e8a1f9b",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "수원회생법원",
-      "order": 5700,
+      "order": "105700",
       "label": "수원회생법원",
       "shortName": "수원회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e512",
+      "_id": "6a4c35314d8bb2122e8a1f9c",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "춘천지방법원",
-      "order": 5800,
+      "order": "105800",
       "label": "춘천지방법원",
       "shortName": "춘천지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e513",
+      "_id": "6a4c35314d8bb2122e8a1f9d",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "춘천지방법원 강릉지원",
-      "order": 5900,
+      "order": "105900",
       "label": "강릉지원",
       "shortName": "강릉지원"
     },
     {
-      "_id": "6a4c32be050c99717369e514",
+      "_id": "6a4c35314d8bb2122e8a1f9e",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "춘천지방법원 원주지원",
-      "order": 6000,
+      "order": "106000",
       "label": "원주지원",
       "shortName": "원주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e515",
+      "_id": "6a4c35314d8bb2122e8a1f9f",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "춘천지방법원 속초지원",
-      "order": 6100,
+      "order": "106100",
       "label": "속초지원",
       "shortName": "속초지원"
     },
     {
-      "_id": "6a4c32be050c99717369e516",
+      "_id": "6a4c35314d8bb2122e8a1fa0",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "춘천지방법원 영월지원",
-      "order": 6200,
+      "order": "106200",
       "label": "영월지원",
       "shortName": "영월지원"
     },
     {
-      "_id": "6a4c32be050c99717369e517",
+      "_id": "6a4c35314d8bb2122e8a1fa1",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "춘천지방법원 홍천군법원",
-      "order": 6300,
+      "order": "106300",
       "label": "홍천군법원",
       "shortName": "홍천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e518",
+      "_id": "6a4c35314d8bb2122e8a1fa2",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "춘천지방법원 양구군법원",
-      "order": 6400,
+      "order": "106400",
       "label": "양구군법원",
       "shortName": "양구군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e519",
+      "_id": "6a4c35314d8bb2122e8a1fa3",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "춘천지방법원 강릉지원 삼척시법원",
-      "order": 6500,
+      "order": "106500",
       "label": "삼척시법원",
       "shortName": "삼척시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51a",
+      "_id": "6a4c35314d8bb2122e8a1fa4",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "춘천지방법원 강릉지원 동해시법원",
-      "order": 6600,
+      "order": "106600",
       "label": "동해시법원",
       "shortName": "동해시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51b",
+      "_id": "6a4c35314d8bb2122e8a1fa5",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "춘천지방법원 영월지원 정선군법원",
-      "order": 6700,
+      "order": "106700",
       "label": "정선군법원",
       "shortName": "정선군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51c",
+      "_id": "6a4c35314d8bb2122e8a1fa6",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "춘천지방법원 영월지원 평창군법원",
-      "order": 6800,
+      "order": "106800",
       "label": "평창군법원",
       "shortName": "평창군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51d",
+      "_id": "6a4c35314d8bb2122e8a1fa7",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "춘천지방법원 영월지원 태백시법원",
-      "order": 6900,
+      "order": "106900",
       "label": "태백시법원",
       "shortName": "태백시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51e",
+      "_id": "6a4c35314d8bb2122e8a1fa8",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "춘천지방법원 원주지원 횡성군법원",
-      "order": 7000,
+      "order": "107000",
       "label": "횡성군법원",
       "shortName": "횡성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e51f",
+      "_id": "6a4c35314d8bb2122e8a1fa9",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "춘천지방법원 인제군법원",
-      "order": 7100,
+      "order": "107100",
       "label": "인제군법원",
       "shortName": "인제군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e520",
+      "_id": "6a4c35314d8bb2122e8a1faa",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "춘천지방법원 화천군법원",
-      "order": 7200,
+      "order": "107200",
       "label": "화천군법원",
       "shortName": "화천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e521",
+      "_id": "6a4c35314d8bb2122e8a1fab",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "춘천지방법원 속초지원 고성군법원",
-      "order": 7300,
+      "order": "107300",
       "label": "고성군법원",
       "shortName": "고성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e522",
+      "_id": "6a4c35314d8bb2122e8a1fac",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "춘천지방법원 속초지원 양양군법원",
-      "order": 7400,
+      "order": "107400",
       "label": "양양군법원",
       "shortName": "양양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e523",
+      "_id": "6a4c35314d8bb2122e8a1fad",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "대전지방법원",
-      "order": 7500,
+      "order": "107500",
       "label": "대전지방법원",
       "shortName": "대전지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e524",
+      "_id": "6a4c35314d8bb2122e8a1fae",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "대전지방법원 홍성지원",
-      "order": 7600,
+      "order": "107600",
       "label": "대전지방법원 홍성지원",
       "shortName": "대전지방법원 홍성지원"
     },
     {
-      "_id": "6a4c32be050c99717369e525",
+      "_id": "6a4c35314d8bb2122e8a1faf",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "대전지방법원 공주지원",
-      "order": 7700,
+      "order": "107700",
       "label": "대전지방법원 공주지원",
       "shortName": "대전지방법원 공주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e526",
+      "_id": "6a4c35314d8bb2122e8a1fb0",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "대전지방법원 논산지원",
-      "order": 7800,
+      "order": "107800",
       "label": "대전지방법원 논산지원",
       "shortName": "대전지방법원 논산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e527",
+      "_id": "6a4c35314d8bb2122e8a1fb1",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "대전지방법원 서산지원",
-      "order": 7900,
+      "order": "107900",
       "label": "대전지방법원 서산지원",
       "shortName": "대전지방법원 서산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e528",
+      "_id": "6a4c35314d8bb2122e8a1fb2",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "대전지방법원 천안지원",
-      "order": 8000,
+      "order": "108000",
       "label": "대전지방법원 천안지원",
       "shortName": "대전지방법원 천안지원"
     },
     {
-      "_id": "6a4c32be050c99717369e529",
+      "_id": "6a4c35314d8bb2122e8a1fb3",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "대전지방법원 금산군법원",
-      "order": 8100,
+      "order": "108100",
       "label": "금산군법원",
       "shortName": "대전지방법원 금산군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52a",
+      "_id": "6a4c35314d8bb2122e8a1fb4",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "세종특별자치시법원",
-      "order": 8200,
+      "order": "108200",
       "label": "세종특별자치시법원",
       "shortName": "세종특별자치시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52b",
+      "_id": "6a4c35314d8bb2122e8a1fb5",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "대전지방법원 홍성지원 보령시법원",
-      "order": 8300,
+      "order": "108300",
       "label": "보령시법원",
       "shortName": "보령시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52c",
+      "_id": "6a4c35314d8bb2122e8a1fb6",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "대전지방법원 홍성지원 서천군법원",
-      "order": 8400,
+      "order": "108400",
       "label": "서천군법원",
       "shortName": "서천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52d",
+      "_id": "6a4c35314d8bb2122e8a1fb7",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "대전지방법원 홍성지원 예산군법원",
-      "order": 8500,
+      "order": "108500",
       "label": "예산군법원",
       "shortName": "예산군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52e",
+      "_id": "6a4c35314d8bb2122e8a1fb8",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "대전지방법원 천안지원 아산시법원",
-      "order": 8600,
+      "order": "108600",
       "label": "아산시법원",
       "shortName": "아산시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e52f",
+      "_id": "6a4c35314d8bb2122e8a1fb9",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "태안군법원",
-      "order": 8700,
+      "order": "108700",
       "label": "태안군법원",
       "shortName": "태안군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e530",
+      "_id": "6a4c35314d8bb2122e8a1fba",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "당진시법원",
-      "order": 8800,
+      "order": "108800",
       "label": "당진시법원",
       "shortName": "당진시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e531",
+      "_id": "6a4c35314d8bb2122e8a1fbb",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "부여군법원",
-      "order": 8900,
+      "order": "108900",
       "label": "부여군법원",
       "shortName": "부여군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e532",
+      "_id": "6a4c35314d8bb2122e8a1fbc",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "청양군법원",
-      "order": 9000,
+      "order": "109000",
       "label": "청양군법원",
       "shortName": "청양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e533",
+      "_id": "6a4c35314d8bb2122e8a1fbd",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "대전가정법원",
-      "order": 9100,
+      "order": "109100",
       "label": "대전가정법원",
       "shortName": "대전가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e534",
+      "_id": "6a4c35314d8bb2122e8a1fbe",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "대전가정법원 홍성지원",
-      "order": 9200,
+      "order": "109200",
       "label": "대전가정법원 홍성지원",
       "shortName": "대전가정법원 홍성지원"
     },
     {
-      "_id": "6a4c32be050c99717369e535",
+      "_id": "6a4c35314d8bb2122e8a1fbf",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "대전가정법원 공주지원",
-      "order": 9300,
+      "order": "109300",
       "label": "대전가정법원 공주지원",
       "shortName": "대전가정법원 공주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e536",
+      "_id": "6a4c35314d8bb2122e8a1fc0",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "대전가정법원 논산지원",
-      "order": 9400,
+      "order": "109400",
       "label": "대전가정법원 논산지원",
       "shortName": "대전가정법원 논산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e537",
+      "_id": "6a4c35314d8bb2122e8a1fc1",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "대전가정법원 서산지원",
-      "order": 9500,
+      "order": "109500",
       "label": "대전가정법원 서산지원",
       "shortName": "대전가정법원 서산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e538",
+      "_id": "6a4c35314d8bb2122e8a1fc2",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "대전가정법원 천안지원",
-      "order": 9600,
+      "order": "109600",
       "label": "대전가정법원 천안지원",
       "shortName": "대전가정법원 천안지원"
     },
     {
-      "_id": "6a4c32be050c99717369e539",
+      "_id": "6a4c35314d8bb2122e8a1fc3",
       "id": "u-24ee208e-3e99-4c23-97f8-4b2219512da6",
       "name": "대전회생법원",
-      "order": 9700,
+      "order": "109700",
       "label": "대전회생법원",
       "shortName": "대전회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e53a",
+      "_id": "6a4c35314d8bb2122e8a1fc4",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "청주지방법원",
-      "order": 9800,
+      "order": "109800",
       "label": "청주지방법원",
       "shortName": "청주지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e53b",
+      "_id": "6a4c35314d8bb2122e8a1fc5",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "충주지원",
-      "order": 9900,
+      "order": "109900",
       "label": "충주지원",
       "shortName": "충주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e53c",
+      "_id": "6a4c35314d8bb2122e8a1fc6",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "제천지원",
-      "order": 10000,
+      "order": "110000",
       "label": "제천지원",
       "shortName": "제천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e53d",
+      "_id": "6a4c35314d8bb2122e8a1fc7",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "영동지원",
-      "order": 10100,
+      "order": "110100",
       "label": "영동지원",
       "shortName": "영동지원"
     },
     {
-      "_id": "6a4c32be050c99717369e53e",
+      "_id": "6a4c35314d8bb2122e8a1fc8",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "진천군법원",
-      "order": 10200,
+      "order": "110200",
       "label": "진천군법원",
       "shortName": "진천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e53f",
+      "_id": "6a4c35314d8bb2122e8a1fc9",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "보은군법원",
-      "order": 10300,
+      "order": "110300",
       "label": "보은군법원",
       "shortName": "보은군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e540",
+      "_id": "6a4c35314d8bb2122e8a1fca",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "단양군법원",
-      "order": 10400,
+      "order": "110400",
       "label": "단양군법원",
       "shortName": "단양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e541",
+      "_id": "6a4c35314d8bb2122e8a1fcb",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "음성군법원",
-      "order": 10500,
+      "order": "110500",
       "label": "음성군법원",
       "shortName": "음성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e542",
+      "_id": "6a4c35314d8bb2122e8a1fcc",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "옥천군법원",
-      "order": 10600,
+      "order": "110600",
       "label": "옥천군법원",
       "shortName": "옥천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e543",
+      "_id": "6a4c35314d8bb2122e8a1fcd",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "괴산군법원",
-      "order": 10700,
+      "order": "110700",
       "label": "괴산군법원",
       "shortName": "괴산군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e544",
+      "_id": "6a4c35314d8bb2122e8a1fce",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "대구지방법원",
-      "order": 10800,
+      "order": "110800",
       "label": "대구지방법원",
       "shortName": "대구지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e545",
+      "_id": "6a4c35314d8bb2122e8a1fcf",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "대구지법서부지원",
-      "order": 10900,
+      "order": "110900",
       "label": "대구지법서부지원",
       "shortName": "대구지법서부지원"
     },
     {
-      "_id": "6a4c32be050c99717369e546",
+      "_id": "6a4c35314d8bb2122e8a1fd0",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "대구지방법원 안동지원",
-      "order": 11000,
+      "order": "111000",
       "label": "대구지방법원 안동지원",
       "shortName": "대구지방법원 안동지원"
     },
     {
-      "_id": "6a4c32be050c99717369e547",
+      "_id": "6a4c35314d8bb2122e8a1fd1",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "대구지방법원 경주지원",
-      "order": 11100,
+      "order": "111100",
       "label": "대구지방법원 경주지원",
       "shortName": "대구지방법원 경주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e548",
+      "_id": "6a4c35314d8bb2122e8a1fd2",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "대구지방법원 포항지원",
-      "order": 11200,
+      "order": "111200",
       "label": "대구지방법원 포항지원",
       "shortName": "대구지방법원 포항지원"
     },
     {
-      "_id": "6a4c32be050c99717369e549",
+      "_id": "6a4c35314d8bb2122e8a1fd3",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "대구지방법원 김천지원",
-      "order": 11300,
+      "order": "111300",
       "label": "대구지방법원 김천지원",
       "shortName": "대구지방법원 김천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e54a",
+      "_id": "6a4c35314d8bb2122e8a1fd4",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "대구지방법원 상주지원",
-      "order": 11400,
+      "order": "111400",
       "label": "대구지방법원 상주지원",
       "shortName": "대구지방법원 상주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e54b",
+      "_id": "6a4c35314d8bb2122e8a1fd5",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "대구지방법원 의성지원",
-      "order": 11500,
+      "order": "111500",
       "label": "대구지방법원 의성지원",
       "shortName": "대구지방법원 의성지원"
     },
     {
-      "_id": "6a4c32be050c99717369e54c",
+      "_id": "6a4c35314d8bb2122e8a1fd6",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "대구지방법원 영덕지원",
-      "order": 11600,
+      "order": "111600",
       "label": "대구지방법원 영덕지원",
       "shortName": "대구지방법원 영덕지원"
     },
     {
-      "_id": "6a4c32be050c99717369e54d",
+      "_id": "6a4c35314d8bb2122e8a1fd7",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "경산시법원",
-      "order": 11700,
+      "order": "111700",
       "label": "경산시법원",
       "shortName": "경산시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e54e",
+      "_id": "6a4c35314d8bb2122e8a1fd8",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "칠곡군법원",
-      "order": 11800,
+      "order": "111800",
       "label": "칠곡군법원",
       "shortName": "칠곡군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e54f",
+      "_id": "6a4c35314d8bb2122e8a1fd9",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "청도군법원",
-      "order": 11900,
+      "order": "111900",
       "label": "청도군법원",
       "shortName": "청도군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e550",
+      "_id": "6a4c35314d8bb2122e8a1fda",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "영천시법원",
-      "order": 12000,
+      "order": "112000",
       "label": "영천시법원",
       "shortName": "영천시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e551",
+      "_id": "6a4c35314d8bb2122e8a1fdb",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "성주군법원",
-      "order": 12100,
+      "order": "112100",
       "label": "성주군법원",
       "shortName": "성주군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e552",
+      "_id": "6a4c35314d8bb2122e8a1fdc",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "고령군법원",
-      "order": 12200,
+      "order": "112200",
       "label": "고령군법원",
       "shortName": "고령군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e553",
+      "_id": "6a4c35314d8bb2122e8a1fdd",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "영주시법원",
-      "order": 12300,
+      "order": "112300",
       "label": "영주시법원",
       "shortName": "영주시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e554",
+      "_id": "6a4c35314d8bb2122e8a1fde",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "봉화군법원",
-      "order": 12400,
+      "order": "112400",
       "label": "봉화군법원",
       "shortName": "봉화군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e555",
+      "_id": "6a4c35314d8bb2122e8a1fdf",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "구미시법원",
-      "order": 12500,
+      "order": "112500",
       "label": "구미시법원",
       "shortName": "구미시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e556",
+      "_id": "6a4c35314d8bb2122e8a1fe0",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "문경시법원",
-      "order": 12600,
+      "order": "112600",
       "label": "문경시법원",
       "shortName": "문경시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e557",
+      "_id": "6a4c35314d8bb2122e8a1fe1",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "예천군법원",
-      "order": 12700,
+      "order": "112700",
       "label": "예천군법원",
       "shortName": "예천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e558",
+      "_id": "6a4c35314d8bb2122e8a1fe2",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "청송군법원",
-      "order": 12800,
+      "order": "112800",
       "label": "청송군법원",
       "shortName": "청송군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e559",
+      "_id": "6a4c35314d8bb2122e8a1fe3",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "군위군법원",
-      "order": 12900,
+      "order": "112900",
       "label": "군위군법원",
       "shortName": "군위군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e55a",
+      "_id": "6a4c35314d8bb2122e8a1fe4",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "울진군법원",
-      "order": 13000,
+      "order": "113000",
       "label": "울진군법원",
       "shortName": "울진군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e55b",
+      "_id": "6a4c35314d8bb2122e8a1fe5",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "영양군법원",
-      "order": 13100,
+      "order": "113100",
       "label": "영양군법원",
       "shortName": "영양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e55c",
+      "_id": "6a4c35314d8bb2122e8a1fe6",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "대구가정법원",
-      "order": 13200,
+      "order": "113200",
       "label": "대구가정법원",
       "shortName": "대구가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e55d",
+      "_id": "6a4c35314d8bb2122e8a1fe7",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "대구가정법원 안동지원",
-      "order": 13300,
+      "order": "113300",
       "label": "대구가정법원 안동지원",
       "shortName": "대구가정법원 안동지원"
     },
     {
-      "_id": "6a4c32be050c99717369e55e",
+      "_id": "6a4c35314d8bb2122e8a1fe8",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "대구가정법원 경주지원",
-      "order": 13400,
+      "order": "113400",
       "label": "대구가정법원 경주지원",
       "shortName": "대구가정법원 경주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e55f",
+      "_id": "6a4c35314d8bb2122e8a1fe9",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "대구가정법원 포항지원",
-      "order": 13500,
+      "order": "113500",
       "label": "대구가정법원 포항지원",
       "shortName": "대구가정법원 포항지원"
     },
     {
-      "_id": "6a4c32be050c99717369e560",
+      "_id": "6a4c35314d8bb2122e8a1fea",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "대구가정법원 김천지원",
-      "order": 13600,
+      "order": "113600",
       "label": "대구가정법원 김천지원",
       "shortName": "대구가정법원 김천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e561",
+      "_id": "6a4c35314d8bb2122e8a1feb",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "대구가정법원 상주지원",
-      "order": 13700,
+      "order": "113700",
       "label": "대구가정법원 상주지원",
       "shortName": "대구가정법원 상주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e562",
+      "_id": "6a4c35314d8bb2122e8a1fec",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "대구가정법원 의성지원",
-      "order": 13800,
+      "order": "113800",
       "label": "대구가정법원 의성지원",
       "shortName": "대구가정법원 의성지원"
     },
     {
-      "_id": "6a4c32be050c99717369e563",
+      "_id": "6a4c35314d8bb2122e8a1fed",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "대구가정법원 영덕지원",
-      "order": 13900,
+      "order": "113900",
       "label": "대구가정법원 영덕지원",
       "shortName": "대구가정법원 영덕지원"
     },
     {
-      "_id": "6a4c32be050c99717369e564",
+      "_id": "6a4c35314d8bb2122e8a1fee",
       "id": "u-da850d57-f0f1-429b-b860-783861febd7c",
       "name": "대구회생법원",
-      "order": 14000,
+      "order": "114000",
       "label": "대구회생법원",
       "shortName": "대구회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e565",
+      "_id": "6a4c35314d8bb2122e8a1fef",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "부산지방법원",
-      "order": 14100,
+      "order": "114100",
       "label": "부산지방법원",
       "shortName": "부산지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e566",
+      "_id": "6a4c35314d8bb2122e8a1ff0",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "부산지법동부지원",
-      "order": 14200,
+      "order": "114200",
       "label": "부산지법동부지원",
       "shortName": "부산지법동부지원"
     },
     {
-      "_id": "6a4c32be050c99717369e567",
+      "_id": "6a4c35314d8bb2122e8a1ff1",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "부산지법서부지원",
-      "order": 14300,
+      "order": "114300",
       "label": "부산지법서부지원",
       "shortName": "부산지법서부지원"
     },
     {
-      "_id": "6a4c32be050c99717369e568",
+      "_id": "6a4c35314d8bb2122e8a1ff2",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "부산가정법원",
-      "order": 14400,
+      "order": "114400",
       "label": "부산가정법원",
       "shortName": "부산가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e569",
+      "_id": "6a4c35314d8bb2122e8a1ff3",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "부산회생법원",
-      "order": 14500,
+      "order": "114500",
       "label": "부산회생법원",
       "shortName": "부산회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e56a",
+      "_id": "6a4c35314d8bb2122e8a1ff4",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "울산지방법원",
-      "order": 14600,
+      "order": "114600",
       "label": "울산지방법원",
       "shortName": "울산지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e56b",
+      "_id": "6a4c35314d8bb2122e8a1ff5",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "양산시법원",
-      "order": 14700,
+      "order": "114700",
       "label": "양산시법원",
       "shortName": "양산시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e56c",
+      "_id": "6a4c35314d8bb2122e8a1ff6",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "울산가정법원",
-      "order": 14800,
+      "order": "114800",
       "label": "울산가정법원",
       "shortName": "울산가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e56d",
+      "_id": "6a4c35314d8bb2122e8a1ff7",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "창원지방법원",
-      "order": 14900,
+      "order": "114900",
       "label": "창원지방법원",
       "shortName": "창원지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e56e",
+      "_id": "6a4c35314d8bb2122e8a1ff8",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "마산지원",
-      "order": 15000,
+      "order": "115000",
       "label": "마산지원",
       "shortName": "마산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e56f",
+      "_id": "6a4c35314d8bb2122e8a1ff9",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "진주지원",
-      "order": 15100,
+      "order": "115100",
       "label": "진주지원",
       "shortName": "진주지원"
     },
     {
-      "_id": "6a4c32be050c99717369e570",
+      "_id": "6a4c35314d8bb2122e8a1ffa",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "통영지원",
-      "order": 15200,
+      "order": "115200",
       "label": "통영지원",
       "shortName": "통영지원"
     },
     {
-      "_id": "6a4c32be050c99717369e571",
+      "_id": "6a4c35314d8bb2122e8a1ffb",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "밀양지원",
-      "order": 15300,
+      "order": "115300",
       "label": "밀양지원",
       "shortName": "밀양지원"
     },
     {
-      "_id": "6a4c32be050c99717369e572",
+      "_id": "6a4c35314d8bb2122e8a1ffc",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "거창지원",
-      "order": 15400,
+      "order": "115400",
       "label": "거창지원",
       "shortName": "거창지원"
     },
     {
-      "_id": "6a4c32be050c99717369e573",
+      "_id": "6a4c35314d8bb2122e8a1ffd",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "창원남부시법원",
-      "order": 15500,
+      "order": "115500",
       "label": "창원남부시법원",
       "shortName": "창원남부시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e574",
+      "_id": "6a4c35314d8bb2122e8a1ffe",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "김해시법원",
-      "order": 15600,
+      "order": "115600",
       "label": "김해시법원",
       "shortName": "김해시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e575",
+      "_id": "6a4c35314d8bb2122e8a1fff",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "함안군법원",
-      "order": 15700,
+      "order": "115700",
       "label": "함안군법원",
       "shortName": "함안군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e576",
+      "_id": "6a4c35314d8bb2122e8a2000",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "의령군법원",
-      "order": 15800,
+      "order": "115800",
       "label": "의령군법원",
       "shortName": "의령군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e577",
+      "_id": "6a4c35314d8bb2122e8a2001",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "사천시법원",
-      "order": 15900,
+      "order": "115900",
       "label": "사천시법원",
       "shortName": "사천시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e578",
+      "_id": "6a4c35314d8bb2122e8a2002",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "남해군법원",
-      "order": 16000,
+      "order": "116000",
       "label": "남해군법원",
       "shortName": "남해군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e579",
+      "_id": "6a4c35314d8bb2122e8a2003",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "하동군법원",
-      "order": 16100,
+      "order": "116100",
       "label": "하동군법원",
       "shortName": "하동군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e57a",
+      "_id": "6a4c35314d8bb2122e8a2004",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "거제시법원",
-      "order": 16200,
+      "order": "116200",
       "label": "거제시법원",
       "shortName": "거제시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e57b",
+      "_id": "6a4c35314d8bb2122e8a2005",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "고성군법원(경)",
-      "order": 16300,
+      "order": "116300",
       "label": "고성군법원(경)",
       "shortName": "고성군법원(경)"
     },
     {
-      "_id": "6a4c32be050c99717369e57c",
+      "_id": "6a4c35314d8bb2122e8a2006",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "창녕군법원",
-      "order": 16400,
+      "order": "116400",
       "label": "창녕군법원",
       "shortName": "창녕군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e57d",
+      "_id": "6a4c35314d8bb2122e8a2007",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "합천군법원",
-      "order": 16500,
+      "order": "116500",
       "label": "합천군법원",
       "shortName": "합천군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e57e",
+      "_id": "6a4c35314d8bb2122e8a2008",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "함양군법원",
-      "order": 16600,
+      "order": "116600",
       "label": "함양군법원",
       "shortName": "함양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e57f",
+      "_id": "6a4c35314d8bb2122e8a2009",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "산청군법원",
-      "order": 16700,
+      "order": "116700",
       "label": "산청군법원",
       "shortName": "산청군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e580",
+      "_id": "6a4c35314d8bb2122e8a200a",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "광주지방법원",
-      "order": 16800,
+      "order": "116800",
       "label": "광주지방법원",
       "shortName": "광주지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e581",
+      "_id": "6a4c35314d8bb2122e8a200b",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "광주지방법원 목포지원",
-      "order": 16900,
+      "order": "116900",
       "label": "광주지방법원 목포지원",
       "shortName": "광주지방법원 목포지원"
     },
     {
-      "_id": "6a4c32be050c99717369e582",
+      "_id": "6a4c35314d8bb2122e8a200c",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "광주지방법원 장흥지원",
-      "order": 17000,
+      "order": "117000",
       "label": "광주지방법원 장흥지원",
       "shortName": "광주지방법원 장흥지원"
     },
     {
-      "_id": "6a4c32be050c99717369e583",
+      "_id": "6a4c35314d8bb2122e8a200d",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "광주지방법원 순천지원",
-      "order": 17100,
+      "order": "117100",
       "label": "광주지방법원 순천지원",
       "shortName": "광주지방법원 순천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e584",
+      "_id": "6a4c35314d8bb2122e8a200e",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "광주지방법원 해남지원",
-      "order": 17200,
+      "order": "117200",
       "label": "광주지방법원 해남지원",
       "shortName": "광주지방법원 해남지원"
     },
     {
-      "_id": "6a4c32be050c99717369e585",
+      "_id": "6a4c35314d8bb2122e8a200f",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "담양군법원",
-      "order": 17300,
+      "order": "117300",
       "label": "담양군법원",
       "shortName": "담양군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e586",
+      "_id": "6a4c35314d8bb2122e8a2010",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "함평군법원",
-      "order": 17400,
+      "order": "117400",
       "label": "함평군법원",
       "shortName": "함평군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e587",
+      "_id": "6a4c35314d8bb2122e8a2011",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "강진군법원",
-      "order": 17500,
+      "order": "117500",
       "label": "강진군법원",
       "shortName": "강진군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e588",
+      "_id": "6a4c35314d8bb2122e8a2012",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "구례군법원",
-      "order": 17600,
+      "order": "117600",
       "label": "구례군법원",
       "shortName": "구례군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e589",
+      "_id": "6a4c35314d8bb2122e8a2013",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "영광군법원",
-      "order": 17700,
+      "order": "117700",
       "label": "영광군법원",
       "shortName": "영광군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58a",
+      "_id": "6a4c35314d8bb2122e8a2014",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "나주시법원",
-      "order": 17800,
+      "order": "117800",
       "label": "나주시법원",
       "shortName": "나주시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58b",
+      "_id": "6a4c35314d8bb2122e8a2015",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "장성군법원",
-      "order": 17900,
+      "order": "117900",
       "label": "장성군법원",
       "shortName": "장성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58c",
+      "_id": "6a4c35314d8bb2122e8a2016",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "화순군법원",
-      "order": 18000,
+      "order": "118000",
       "label": "화순군법원",
       "shortName": "화순군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58d",
+      "_id": "6a4c35314d8bb2122e8a2017",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "곡성군법원",
-      "order": 18100,
+      "order": "118100",
       "label": "곡성군법원",
       "shortName": "곡성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58e",
+      "_id": "6a4c35314d8bb2122e8a2018",
       "id": "u-d9e0f1a2-b3c4-45d6-e7f8-a9b0c1d2e3f4",
       "name": "광양시법원",
-      "order": 18200,
+      "order": "118200",
       "label": "광양시법원",
       "shortName": "광양시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e58f",
+      "_id": "6a4c35314d8bb2122e8a2019",
       "id": "u-f3a4b5c6-d7e8-49f0-a1b2-c3d4e5f6a7b8",
       "name": "고흥군법원",
-      "order": 18300,
+      "order": "118300",
       "label": "고흥군법원",
       "shortName": "고흥군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e590",
+      "_id": "6a4c35314d8bb2122e8a201a",
       "id": "u-a3b4c5d6-e7f8-49a0-b1c2-d3e4f5a6b7c8",
       "name": "여수시법원",
-      "order": 18400,
+      "order": "118400",
       "label": "여수시법원",
       "shortName": "여수시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e591",
+      "_id": "6a4c35314d8bb2122e8a201b",
       "id": "u-c3d4e5f6-a7b8-49c0-d1e2-f3a4b5c6d7e8",
       "name": "보성군법원",
-      "order": 18500,
+      "order": "118500",
       "label": "보성군법원",
       "shortName": "보성군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e592",
+      "_id": "6a4c35314d8bb2122e8a201c",
       "id": "u-e3f4a5b6-c7d8-49e0-f1a2-b3c4d5e6f7a8",
       "name": "무안군법원",
-      "order": 18600,
+      "order": "118600",
       "label": "무안군법원",
       "shortName": "무안군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e593",
+      "_id": "6a4c35314d8bb2122e8a201d",
       "id": "u-b3c4d5e6-f7a8-49b0-c1d2-e3f4a5b6c7d8",
       "name": "영암군법원",
-      "order": 18700,
+      "order": "118700",
       "label": "영암군법원",
       "shortName": "영암군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e594",
+      "_id": "6a4c35314d8bb2122e8a201e",
       "id": "u-d3e4f5a6-b7c8-49d0-e1f2-a3b4c5d6e7f8",
       "name": "완도군법원",
-      "order": 18800,
+      "order": "118800",
       "label": "완도군법원",
       "shortName": "완도군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e595",
+      "_id": "6a4c35314d8bb2122e8a201f",
       "id": "u-f7a8b9c0-d1e2-49f3-a4b5-c6d7e8f9a0b1",
       "name": "진도군법원",
-      "order": 18900,
+      "order": "118900",
       "label": "진도군법원",
       "shortName": "진도군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e596",
+      "_id": "6a4c35314d8bb2122e8a2020",
       "id": "u-a7b8c9d0-e1f2-49a3-b4c5-d6e7f8a9b0c1",
       "name": "광주가정법원",
-      "order": 19000,
+      "order": "119000",
       "label": "광주가정법원",
       "shortName": "광주가정법원"
     },
     {
-      "_id": "6a4c32be050c99717369e597",
+      "_id": "6a4c35314d8bb2122e8a2021",
       "id": "u-c7d8e9f0-a1b2-49c3-d4e5-f6a7b8c9d0e1",
       "name": "광주가정법원 목포지원",
-      "order": 19100,
+      "order": "119100",
       "label": "광주가정법원 목포지원",
       "shortName": "광주가정법원 목포지원"
     },
     {
-      "_id": "6a4c32be050c99717369e598",
+      "_id": "6a4c35314d8bb2122e8a2022",
       "id": "u-e7f8a9b0-c1d2-49e3-f4a5-b6c7d8e9f0a1",
       "name": "광주가정법원 장흥지원",
-      "order": 19200,
+      "order": "119200",
       "label": "광주가정법원 장흥지원",
       "shortName": "광주가정법원 장흥지원"
     },
     {
-      "_id": "6a4c32be050c99717369e599",
+      "_id": "6a4c35314d8bb2122e8a2023",
       "id": "u-b7c8d9e0-f1a2-49b3-c4d5-e6f7a8b9c0d1",
       "name": "광주가정법원 순천지원",
-      "order": 19300,
+      "order": "119300",
       "label": "광주가정법원 순천지원",
       "shortName": "광주가정법원 순천지원"
     },
     {
-      "_id": "6a4c32be050c99717369e59a",
+      "_id": "6a4c35314d8bb2122e8a2024",
       "id": "u-d7e8f9a0-b1c2-49d3-e4f5-a6b7c8d9e0f1",
       "name": "광주가정법원 해남지원",
-      "order": 19400,
+      "order": "119400",
       "label": "광주가정법원 해남지원",
       "shortName": "광주가정법원 해남지원"
     },
     {
-      "_id": "6a4c32be050c99717369e59b",
+      "_id": "6a4c35314d8bb2122e8a2025",
       "id": "u-55c17f08-ab57-44d8-943a-23acba2c2a2c",
       "name": "광주회생법원",
-      "order": 19500,
+      "order": "119500",
       "label": "광주회생법원",
       "shortName": "광주회생법원"
     },
     {
-      "_id": "6a4c32be050c99717369e59c",
+      "_id": "6a4c35314d8bb2122e8a2026",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "전주지방법원",
-      "order": 19600,
+      "order": "119600",
       "label": "전주지방법원",
       "shortName": "전주지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e59d",
+      "_id": "6a4c35314d8bb2122e8a2027",
       "id": "u-c1d2e3f4-a5b6-47c8-d9e0-f1a2b3c4d5e6",
       "name": "군산지원",
-      "order": 19700,
+      "order": "119700",
       "label": "군산지원",
       "shortName": "군산지원"
     },
     {
-      "_id": "6a4c32be050c99717369e59e",
+      "_id": "6a4c35314d8bb2122e8a2028",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "정읍지원",
-      "order": 19800,
+      "order": "119800",
       "label": "정읍지원",
       "shortName": "정읍지원"
     },
     {
-      "_id": "6a4c32be050c99717369e59f",
+      "_id": "6a4c35314d8bb2122e8a2029",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "남원지원",
-      "order": 19900,
+      "order": "119900",
       "label": "남원지원",
       "shortName": "남원지원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a0",
+      "_id": "6a4c35314d8bb2122e8a202a",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "진안군법원",
-      "order": 20000,
+      "order": "120000",
       "label": "진안군법원",
       "shortName": "진안군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a1",
+      "_id": "6a4c35314d8bb2122e8a202b",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "김제시법원",
-      "order": 20100,
+      "order": "120100",
       "label": "김제시법원",
       "shortName": "김제시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a2",
+      "_id": "6a4c35314d8bb2122e8a202c",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "무주군법원",
-      "order": 20200,
+      "order": "120200",
       "label": "무주군법원",
       "shortName": "무주군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a3",
+      "_id": "6a4c35314d8bb2122e8a202d",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "임실군법원",
-      "order": 20300,
+      "order": "120300",
       "label": "임실군법원",
       "shortName": "임실군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a4",
+      "_id": "6a4c35314d8bb2122e8a202e",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "익산시법원",
-      "order": 20400,
+      "order": "120400",
       "label": "익산시법원",
       "shortName": "익산시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a5",
+      "_id": "6a4c35314d8bb2122e8a202f",
       "id": "u-b5c6d7e8-f9a0-41b2-c3d4-e5f6a7b8c9d0",
       "name": "부안군법원",
-      "order": 20500,
+      "order": "120500",
       "label": "부안군법원",
       "shortName": "부안군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a6",
+      "_id": "6a4c35314d8bb2122e8a2030",
       "id": "u-d5e6f7a8-b9c0-41d2-e3f4-a5b6c7d8e9f0",
       "name": "고창군법원",
-      "order": 20600,
+      "order": "120600",
       "label": "고창군법원",
       "shortName": "고창군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a7",
+      "_id": "6a4c35314d8bb2122e8a2031",
       "id": "u-f9a0b1c2-d3e4-45f6-a7b8-c9d0e1f2a3b4",
       "name": "장수군법원",
-      "order": 20700,
+      "order": "120700",
       "label": "장수군법원",
       "shortName": "장수군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a8",
+      "_id": "6a4c35314d8bb2122e8a2032",
       "id": "u-a9b0c1d2-e3f4-45a6-b7c8-d9e0f1a2b3c4",
       "name": "순창군법원",
-      "order": 20800,
+      "order": "120800",
       "label": "순창군법원",
       "shortName": "순창군법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5a9",
+      "_id": "6a4c35314d8bb2122e8a2033",
       "id": "u-c9d0e1f2-a3b4-45c6-d7e8-f9a0b1c2d3e4",
       "name": "제주지방법원",
-      "order": 20900,
+      "order": "120900",
       "label": "제주지방법원",
       "shortName": "제주지방법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5aa",
+      "_id": "6a4c35314d8bb2122e8a2034",
       "id": "u-e9f0a1b2-c3d4-45e6-f7a8-b9c0d1e2f3a4",
       "name": "서귀포시법원",
-      "order": 21000,
+      "order": "121000",
       "label": "서귀포시법원",
       "shortName": "서귀포시법원"
     },
     {
-      "_id": "6a4c32be050c99717369e5ab",
+      "_id": "6a4c35314d8bb2122e8a2035",
       "id": "u-b9c0d1e2-f3a4-45b6-c7d8-e9f0a1b2c3d4",
       "name": "법원행정처",
-      "order": 21100,
+      "order": "121100",
       "label": "법원행정처",
       "shortName": "법원행정처"
     }
   ],
   "regions": [
     {
-      "_id": "6a4c32bea0e2b631efa43bc6",
+      "_id": "6a4c3531050c99717369e601",
       "id": "u-18673357-e004-45be-92a2-ce4807ef10f7",
       "code": "5115000000",
       "name": "강원특별자치도 강릉시",
       "shortName": "강릉시",
       "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a",
-      "order": 0
+      "order": "100000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc7",
+      "_id": "6a4c3531050c99717369e602",
       "id": "u-2a98d533-0c2f-43a5-ad5c-dbe28f5f5518",
       "code": "5182000000",
       "name": "강원특별자치도 고성군",
       "shortName": "강원 고성군",
       "executionCourtId": "u-160e2fb8-8f5c-4213-b743-24197367fc3b",
-      "order": 100
+      "order": "100100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc8",
+      "_id": "6a4c3531050c99717369e603",
       "id": "u-0aa8bf4f-01c3-499c-a526-2ce5f6f96eee",
       "code": "5117000000",
       "name": "강원특별자치도 동해시",
       "shortName": "동해시",
       "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a",
-      "order": 200
+      "order": "100200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc9",
+      "_id": "6a4c3531050c99717369e604",
       "id": "u-2e44d700-98f2-40f3-b547-f0252f684a3b",
       "code": "5123000000",
       "name": "강원특별자치도 삼척시",
       "shortName": "삼척시",
       "executionCourtId": "u-e7d9b3fc-fc0b-4747-b486-cc22cfa9536a",
-      "order": 300
+      "order": "100300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bca",
+      "_id": "6a4c3531050c99717369e605",
       "id": "u-7a2a337a-2359-43e3-9bbf-505e806aef15",
       "code": "5121000000",
       "name": "강원특별자치도 속초시",
       "shortName": "속초시",
       "executionCourtId": "u-160e2fb8-8f5c-4213-b743-24197367fc3b",
-      "order": 400
+      "order": "100400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bcb",
+      "_id": "6a4c3531050c99717369e606",
       "id": "u-9a2f6582-5f95-4823-9015-74f4a360e89e",
       "code": "5180000000",
       "name": "강원특별자치도 양구군",
       "shortName": "강원 양구군",
       "executionCourtId": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
-      "order": 500
+      "order": "100500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bcc",
+      "_id": "6a4c3531050c99717369e607",
       "id": "u-67686c04-44a9-4db5-a960-bd9cba25935d",
       "code": "5183000000",
       "name": "강원특별자치도 양양군",
       "shortName": "강원 양양군",
       "executionCourtId": "u-160e2fb8-8f5c-4213-b743-24197367fc3b",
-      "order": 600
+      "order": "100600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bcd",
+      "_id": "6a4c3531050c99717369e608",
       "id": "u-b9200b60-c792-4b3f-8f76-61d2cfcb9674",
       "code": "5175000000",
       "name": "강원특별자치도 영월군",
       "shortName": "강원 영월군",
       "executionCourtId": "u-4315094b-7d31-47bf-8cc7-f253439a24e0",
-      "order": 700
+      "order": "100700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bce",
+      "_id": "6a4c3531050c99717369e609",
       "id": "u-c0775c33-23ce-424c-8a09-c4067893cf55",
       "code": "5113000000",
       "name": "강원특별자치도 원주시",
       "shortName": "원주시",
       "executionCourtId": "u-15df6ebb-4073-4e7f-b868-171d21357607",
-      "order": 800
+      "order": "100800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bcf",
+      "_id": "6a4c3531050c99717369e60a",
       "id": "u-0f974e08-7b7c-4eb6-a931-9f106f3502d5",
       "code": "5181000000",
       "name": "강원특별자치도 인제군",
       "shortName": "강원 인제군",
       "executionCourtId": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
-      "order": 900
+      "order": "100900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd0",
+      "_id": "6a4c3531050c99717369e60b",
       "id": "u-0e7fd1d0-446e-46b2-8f26-ddb1196c422a",
       "code": "5177000000",
       "name": "강원특별자치도 정선군",
       "shortName": "강원 정선군",
       "executionCourtId": "u-4315094b-7d31-47bf-8cc7-f253439a24e0",
-      "order": 1000
+      "order": "101000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd1",
+      "_id": "6a4c3531050c99717369e60c",
       "id": "u-cc2affcc-cf47-4001-826c-b761ee40deb1",
       "code": "5178000000",
       "name": "강원특별자치도 철원군",
       "shortName": "강원 철원군",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 1100
+      "order": "101100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd2",
+      "_id": "6a4c3531050c99717369e60d",
       "id": "u-08077a1e-9166-4397-855e-5c58f6bde41d",
       "code": "5111000000",
       "name": "강원특별자치도 춘천시",
       "shortName": "춘천시",
       "executionCourtId": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
-      "order": 1200
+      "order": "101200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd3",
+      "_id": "6a4c3531050c99717369e60e",
       "id": "u-007dfa5d-f54f-43d3-857f-1e7953773b20",
       "code": "5119000000",
       "name": "강원특별자치도 태백시",
       "shortName": "태백시",
       "executionCourtId": "u-4315094b-7d31-47bf-8cc7-f253439a24e0",
-      "order": 1300
+      "order": "101300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd4",
+      "_id": "6a4c3531050c99717369e60f",
       "id": "u-4721c07c-f51a-4972-aa04-3168feedf877",
       "code": "5176000000",
       "name": "강원특별자치도 평창군",
       "shortName": "강원 평창군",
       "executionCourtId": "u-4315094b-7d31-47bf-8cc7-f253439a24e0",
-      "order": 1400
+      "order": "101400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd5",
+      "_id": "6a4c3531050c99717369e610",
       "id": "u-acaea541-2b13-4e4c-9f08-52881a4dfc22",
       "code": "5172000000",
       "name": "강원특별자치도 홍천군",
       "shortName": "강원 홍천군",
       "executionCourtId": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
-      "order": 1500
+      "order": "101500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd6",
+      "_id": "6a4c3531050c99717369e611",
       "id": "u-5ddcbb7f-84a2-4c81-b1ba-9797bce085ab",
       "code": "5179000000",
       "name": "강원특별자치도 화천군",
       "shortName": "강원 화천군",
       "executionCourtId": "u-87b5bb81-638f-43cb-b4c4-4af25f26f073",
-      "order": 1600
+      "order": "101600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd7",
+      "_id": "6a4c3531050c99717369e612",
       "id": "u-9171049e-82db-4947-8ff7-c17d14a830d0",
       "code": "5173000000",
       "name": "강원특별자치도 횡성군",
       "shortName": "강원 횡성군",
       "executionCourtId": "u-15df6ebb-4073-4e7f-b868-171d21357607",
-      "order": 1700
+      "order": "101700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd8",
+      "_id": "6a4c3531050c99717369e613",
       "id": "u-b331e96f-8f85-4159-b846-a3c8861cd498",
       "code": "4182000000",
       "name": "경기도 가평군",
       "shortName": "경기 가평군",
       "executionCourtId": "u-8ce5d0ab-3827-4b24-bfd5-254b170ba2a2",
-      "order": 1800
+      "order": "101800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bd9",
+      "_id": "6a4c3531050c99717369e614",
       "id": "u-9e3cede0-08df-40a2-b2b6-4b3acb26bc37",
       "code": "4128100000",
       "name": "경기도 고양시 덕양구",
       "shortName": "고양시 덕양구",
       "executionCourtId": "u-cf9838d6-9e5e-499c-b8fb-bdaaf064677b",
-      "order": 1900
+      "order": "101900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bda",
+      "_id": "6a4c3531050c99717369e615",
       "id": "u-da02af1d-d6a9-485e-bf93-ac4c33e6dae2",
       "code": "4128500000",
       "name": "경기도 고양시 일산동구",
       "shortName": "고양시 일산동구",
       "executionCourtId": "u-cf9838d6-9e5e-499c-b8fb-bdaaf064677b",
-      "order": 2000
+      "order": "102000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bdb",
+      "_id": "6a4c3531050c99717369e616",
       "id": "u-b26736ad-b7ce-4aad-ab35-17b00026f6f6",
       "code": "4128700000",
       "name": "경기도 고양시 일산서구",
       "shortName": "고양시 일산서구",
       "executionCourtId": "u-cf9838d6-9e5e-499c-b8fb-bdaaf064677b",
-      "order": 2100
+      "order": "102100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bdc",
+      "_id": "6a4c3531050c99717369e617",
       "id": "u-3eb9d4d8-65ad-4d84-a098-47c5a1c2d889",
       "code": "4145000000",
       "name": "경기도 과천시",
       "shortName": "과천시",
       "executionCourtId": "u-809c99af-7d4b-4643-a120-81828164abf2",
-      "order": 2200
+      "order": "102200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bdd",
+      "_id": "6a4c3531050c99717369e618",
       "id": "u-59705dfb-dedf-4a31-82f9-85fa90a58f44",
       "code": "4121000000",
       "name": "경기도 광명시",
       "shortName": "광명시",
       "executionCourtId": "u-591ad04d-31b2-402d-80ac-e93dace9e842",
-      "order": 2300
+      "order": "102300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bde",
+      "_id": "6a4c3531050c99717369e619",
       "id": "u-8bbed185-97e4-45aa-a0e0-077346d823c8",
       "code": "4161000000",
       "name": "경기도 광주시",
       "shortName": "광주시",
       "executionCourtId": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
-      "order": 2400
+      "order": "102400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bdf",
+      "_id": "6a4c3531050c99717369e61a",
       "id": "u-fefd5554-8204-4dd0-96e6-646666bb1db6",
       "code": "4131000000",
       "name": "경기도 구리시",
       "shortName": "구리시",
       "executionCourtId": "u-8ce5d0ab-3827-4b24-bfd5-254b170ba2a2",
-      "order": 2500
+      "order": "102500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be0",
+      "_id": "6a4c3531050c99717369e61b",
       "id": "u-a6f31508-99ca-4b82-b632-8e490fe9d1b7",
       "code": "4141000000",
       "name": "경기도 군포시",
       "shortName": "군포시",
       "executionCourtId": "u-809c99af-7d4b-4643-a120-81828164abf2",
-      "order": 2600
+      "order": "102600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be1",
+      "_id": "6a4c3531050c99717369e61c",
       "id": "u-ae694895-ad9f-4732-ad98-c7265dadc5bf",
       "code": "4157000000",
       "name": "경기도 김포시",
       "shortName": "김포시",
       "executionCourtId": "u-484b0de7-cb7d-40e4-8fe4-dbe6a1927039",
-      "order": 2700
+      "order": "102700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be2",
+      "_id": "6a4c3531050c99717369e61d",
       "id": "u-6fd14a6f-6084-4f03-acd9-d934b82f2684",
       "code": "4136000000",
       "name": "경기도 남양주시",
       "shortName": "남양주시",
       "executionCourtId": "u-8ce5d0ab-3827-4b24-bfd5-254b170ba2a2",
-      "order": 2800
+      "order": "102800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be3",
+      "_id": "6a4c3531050c99717369e61e",
       "id": "u-ea79f7a5-0b59-4430-82aa-497f998a747b",
       "code": "4125000000",
       "name": "경기도 동두천시",
       "shortName": "동두천시",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 2900
+      "order": "102900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be4",
+      "_id": "6a4c3531050c99717369e61f",
       "id": "u-f27a442a-7bdc-448f-96d1-04eddd0e3142",
       "code": "",
       "name": "경기도 부천시 소사구",
       "shortName": "부천시 소사구",
       "executionCourtId": "u-484b0de7-cb7d-40e4-8fe4-dbe6a1927039",
-      "order": 3000
+      "order": "103000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be5",
+      "_id": "6a4c3531050c99717369e620",
       "id": "u-3944f20f-05b9-4fbb-9600-07b2a3dcf40f",
       "code": "",
       "name": "경기도 부천시 오정구",
       "shortName": "부천시 오정구",
       "executionCourtId": "u-484b0de7-cb7d-40e4-8fe4-dbe6a1927039",
-      "order": 3100
+      "order": "103100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be6",
+      "_id": "6a4c3531050c99717369e621",
       "id": "u-507eac31-a5a4-4531-9533-bc6ed46051c4",
       "code": "",
       "name": "경기도 부천시 원미구",
       "shortName": "부천시 원미구",
       "executionCourtId": "u-484b0de7-cb7d-40e4-8fe4-dbe6a1927039",
-      "order": 3200
+      "order": "103200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be7",
+      "_id": "6a4c3531050c99717369e622",
       "id": "u-0afff68a-6ffb-4752-9c98-d812e2aba601",
       "code": "4113500000",
       "name": "경기도 성남시 분당구",
       "shortName": "성남시 분당구",
       "executionCourtId": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
-      "order": 3300
+      "order": "103300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be8",
+      "_id": "6a4c3531050c99717369e623",
       "id": "u-39e2a470-446f-4a14-823a-6b610267ca7b",
       "code": "4113100000",
       "name": "경기도 성남시 수정구",
       "shortName": "성남시 수정구",
       "executionCourtId": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
-      "order": 3400
+      "order": "103400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43be9",
+      "_id": "6a4c3531050c99717369e624",
       "id": "u-8f63ec11-dd9c-4d0d-8819-838dfd3af6b4",
       "code": "4113300000",
       "name": "경기도 성남시 중원구",
       "shortName": "성남시 중원구",
       "executionCourtId": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
-      "order": 3500
+      "order": "103500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bea",
+      "_id": "6a4c3531050c99717369e625",
       "id": "u-c5328f15-dfc0-4968-9209-8cf1eeaa3f85",
       "code": "4111300000",
       "name": "경기도 수원시 권선구",
       "shortName": "수원시 권선구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 3600
+      "order": "103600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43beb",
+      "_id": "6a4c3531050c99717369e626",
       "id": "u-d0bb2f0b-c78c-4fc4-8a08-1be985745a87",
       "code": "4111700000",
       "name": "경기도 수원시 영통구",
       "shortName": "수원시 영통구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 3700
+      "order": "103700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bec",
+      "_id": "6a4c3531050c99717369e627",
       "id": "u-c96b0ded-fd17-4aac-9d4f-7bb9b9e1cb09",
       "code": "4111100000",
       "name": "경기도 수원시 장안구",
       "shortName": "수원시 장안구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 3800
+      "order": "103800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bed",
+      "_id": "6a4c3531050c99717369e628",
       "id": "u-836416d6-db9d-4693-8d6e-44d96fe1d85b",
       "code": "4111500000",
       "name": "경기도 수원시 팔달구",
       "shortName": "수원시 팔달구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 3900
+      "order": "103900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bee",
+      "_id": "6a4c3531050c99717369e629",
       "id": "u-77161af9-e009-4ef8-978c-96fa1cbf5d79",
       "code": "4139000000",
       "name": "경기도 시흥시",
       "shortName": "시흥시",
       "executionCourtId": "u-591ad04d-31b2-402d-80ac-e93dace9e842",
-      "order": 4000
+      "order": "104000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bef",
+      "_id": "6a4c3531050c99717369e62a",
       "id": "u-e91d627f-19cd-4111-b926-18389c43cac7",
       "code": "4127300000",
       "name": "경기도 안산시 단원구",
       "shortName": "안산시 단원구",
       "executionCourtId": "u-591ad04d-31b2-402d-80ac-e93dace9e842",
-      "order": 4100
+      "order": "104100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf0",
+      "_id": "6a4c3531050c99717369e62b",
       "id": "u-925d8167-dc60-4f12-8868-86526c0927ed",
       "code": "4127100000",
       "name": "경기도 안산시 상록구",
       "shortName": "안산시 상록구",
       "executionCourtId": "u-591ad04d-31b2-402d-80ac-e93dace9e842",
-      "order": 4200
+      "order": "104200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf1",
+      "_id": "6a4c3531050c99717369e62c",
       "id": "u-8e9d2bf8-b300-4bed-82a3-1c8e1f734251",
       "code": "4155000000",
       "name": "경기도 안성시",
       "shortName": "안성시",
       "executionCourtId": "u-4bc0239b-2bc5-4069-89b4-0cfd6062a356",
-      "order": 4300
+      "order": "104300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf2",
+      "_id": "6a4c3531050c99717369e62d",
       "id": "u-649eccdf-06f6-470c-a485-a19464d0ee03",
       "code": "4117300000",
       "name": "경기도 안양시 동안구",
       "shortName": "안양시 동안구",
       "executionCourtId": "u-809c99af-7d4b-4643-a120-81828164abf2",
-      "order": 4400
+      "order": "104400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf3",
+      "_id": "6a4c3531050c99717369e62e",
       "id": "u-4d6685ee-accd-49cd-ad9f-dc9ed106e993",
       "code": "4117100000",
       "name": "경기도 안양시 만안구",
       "shortName": "안양시 만안구",
       "executionCourtId": "u-809c99af-7d4b-4643-a120-81828164abf2",
-      "order": 4500
+      "order": "104500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf4",
+      "_id": "6a4c3531050c99717369e62f",
       "id": "u-86cb77f6-d9bd-4035-8eed-3cd547c51380",
       "code": "4163000000",
       "name": "경기도 양주시",
       "shortName": "양주시",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 4600
+      "order": "104600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf5",
+      "_id": "6a4c3531050c99717369e630",
       "id": "u-1c959b7e-12c1-4ac0-aec1-b93beb1c839a",
       "code": "4183000000",
       "name": "경기도 양평군",
       "shortName": "경기 양평군",
       "executionCourtId": "u-62abe4a0-f2c9-4183-acdf-cdf5523fa162",
-      "order": 4700
+      "order": "104700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf6",
+      "_id": "6a4c3531050c99717369e631",
       "id": "u-0c4f7890-1229-427c-a63b-79040fb0c50e",
       "code": "4167000000",
       "name": "경기도 여주시",
       "shortName": "여주시",
       "executionCourtId": "u-62abe4a0-f2c9-4183-acdf-cdf5523fa162",
-      "order": 4800
+      "order": "104800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf7",
+      "_id": "6a4c3531050c99717369e632",
       "id": "u-784ed38a-29ee-4905-98fe-bcb1ed13d9e5",
       "code": "4180000000",
       "name": "경기도 연천군",
       "shortName": "경기 연천군",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 4900
+      "order": "104900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf8",
+      "_id": "6a4c3531050c99717369e633",
       "id": "u-bda794c3-9343-402c-b0f7-97ab5f9e3dd2",
       "code": "4137000000",
       "name": "경기도 오산시",
       "shortName": "오산시",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 5000
+      "order": "105000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bf9",
+      "_id": "6a4c3531050c99717369e634",
       "id": "u-f4010999-e739-4d7d-b994-6e9981c36a5a",
       "code": "4146300000",
       "name": "경기도 용인시 기흥구",
       "shortName": "용인시 기흥구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 5100
+      "order": "105100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bfa",
+      "_id": "6a4c3531050c99717369e635",
       "id": "u-843f9865-a617-4f9b-bc8d-b5631b78838b",
       "code": "4146500000",
       "name": "경기도 용인시 수지구",
       "shortName": "용인시 수지구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 5200
+      "order": "105200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bfb",
+      "_id": "6a4c3531050c99717369e636",
       "id": "u-0e318132-f594-42c7-840a-33428a09c9d9",
       "code": "4146100000",
       "name": "경기도 용인시 처인구",
       "shortName": "용인시 처인구",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 5300
+      "order": "105300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bfc",
+      "_id": "6a4c3531050c99717369e637",
       "id": "u-d1769ba8-4746-4945-b37b-7b90b83ddfb9",
       "code": "4143000000",
       "name": "경기도 의왕시",
       "shortName": "의왕시",
       "executionCourtId": "u-809c99af-7d4b-4643-a120-81828164abf2",
-      "order": 5400
+      "order": "105400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bfd",
+      "_id": "6a4c3531050c99717369e638",
       "id": "u-6308c160-faf0-4586-b14e-37da88084f56",
       "code": "4115000000",
       "name": "경기도 의정부시",
       "shortName": "의정부시",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 5500
+      "order": "105500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bfe",
+      "_id": "6a4c3531050c99717369e639",
       "id": "u-46ed0775-a075-421e-bba6-eb322c1a915e",
       "code": "4150000000",
       "name": "경기도 이천시",
       "shortName": "이천시",
       "executionCourtId": "u-62abe4a0-f2c9-4183-acdf-cdf5523fa162",
-      "order": 5600
+      "order": "105600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bff",
+      "_id": "6a4c3531050c99717369e63a",
       "id": "u-44530b91-3c94-4098-8e59-88791b27878a",
       "code": "4148000000",
       "name": "경기도 파주시",
       "shortName": "파주시",
       "executionCourtId": "u-cf9838d6-9e5e-499c-b8fb-bdaaf064677b",
-      "order": 5700
+      "order": "105700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c00",
+      "_id": "6a4c3531050c99717369e63b",
       "id": "u-de74091f-3000-41d9-a4d3-4b1c66ad9cf9",
       "code": "4122000000",
       "name": "경기도 평택시",
       "shortName": "평택시",
       "executionCourtId": "u-4bc0239b-2bc5-4069-89b4-0cfd6062a356",
-      "order": 5800
+      "order": "105800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c01",
+      "_id": "6a4c3531050c99717369e63c",
       "id": "u-8e8cbf65-2a64-452c-bfd2-2868b9e0f5c9",
       "code": "4165000000",
       "name": "경기도 포천시",
       "shortName": "포천시",
       "executionCourtId": "u-9a4b1805-651e-428a-adf9-b7974a92d117",
-      "order": 5900
+      "order": "105900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c02",
+      "_id": "6a4c3531050c99717369e63d",
       "id": "u-24117e5c-99bc-4514-889e-6146e87631f2",
       "code": "4145000000",
       "name": "경기도 하남시",
       "shortName": "하남시",
       "executionCourtId": "u-3847bbbb-78fb-4af3-92a6-461beca635d5",
-      "order": 6000
+      "order": "106000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c03",
+      "_id": "6a4c3531050c99717369e63e",
       "id": "u-e5182d2e-514d-4165-865d-876b3f68b6d0",
       "code": "4159000000",
       "name": "경기도 화성시",
       "shortName": "화성시",
       "executionCourtId": "u-aa7bbb81-7059-48b1-944d-7079879c56dc",
-      "order": 6100
+      "order": "106100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c04",
+      "_id": "6a4c3531050c99717369e63f",
       "id": "u-b2999b17-343e-4d8c-9ec7-740499c4ead6",
       "code": "4831000000",
       "name": "경상남도 거제시",
       "shortName": "거제시",
       "executionCourtId": "u-0ac5df6e-a67f-4794-bbb9-c74ecab5a2ae",
-      "order": 6200
+      "order": "106200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c05",
+      "_id": "6a4c3531050c99717369e640",
       "id": "u-f2fc0b8c-d00c-469b-bbc9-c7362dadc772",
       "code": "4888000000",
       "name": "경상남도 거창군",
       "shortName": "경남 거창군",
       "executionCourtId": "u-5b7f5e94-1024-40da-8410-48ed8738e27e",
-      "order": 6300
+      "order": "106300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c06",
+      "_id": "6a4c3531050c99717369e641",
       "id": "u-2b80b629-df63-4236-93a3-cd53d9796c3f",
       "code": "4882000000",
       "name": "경상남도 고성군",
       "shortName": "경남 고성군",
       "executionCourtId": "u-0ac5df6e-a67f-4794-bbb9-c74ecab5a2ae",
-      "order": 6400
+      "order": "106400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c07",
+      "_id": "6a4c3531050c99717369e642",
       "id": "u-c95a895d-488e-4bea-8b1e-89bc2aa9c83e",
       "code": "4825000000",
       "name": "경상남도 김해시",
       "shortName": "김해시",
       "executionCourtId": "u-077281ca-a49e-46ff-9269-d7fc6db65611",
-      "order": 6500
+      "order": "106500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c08",
+      "_id": "6a4c3531050c99717369e643",
       "id": "u-a152539f-f26f-416a-9e80-fde04aed4bfa",
       "code": "4884000000",
       "name": "경상남도 남해군",
       "shortName": "경남 남해군",
       "executionCourtId": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
-      "order": 6600
+      "order": "106600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c09",
+      "_id": "6a4c3531050c99717369e644",
       "id": "u-3fdd10ac-6c19-4299-b5dc-4aaba4518eff",
       "code": "4827000000",
       "name": "경상남도 밀양시",
       "shortName": "밀양시",
       "executionCourtId": "u-5f20b195-424e-48a0-8845-805c87a64b67",
-      "order": 6700
+      "order": "106700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0a",
+      "_id": "6a4c3531050c99717369e645",
       "id": "u-a631a20f-2162-47ca-b67d-bd6824831603",
       "code": "4824000000",
       "name": "경상남도 사천시",
       "shortName": "사천시",
       "executionCourtId": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
-      "order": 6800
+      "order": "106800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0b",
+      "_id": "6a4c3531050c99717369e646",
       "id": "u-6c5e64c9-ef5d-4d19-af9f-823686ae0930",
       "code": "4886000000",
       "name": "경상남도 산청군",
       "shortName": "경남 산청군",
       "executionCourtId": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
-      "order": 6900
+      "order": "106900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0c",
+      "_id": "6a4c3531050c99717369e647",
       "id": "u-3913bf07-71a6-49b9-8f23-74bfaf3dcab3",
       "code": "4833000000",
       "name": "경상남도 양산시",
       "shortName": "양산시",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 7000
+      "order": "107000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0d",
+      "_id": "6a4c3531050c99717369e648",
       "id": "u-2e2f2b31-b64c-47ab-9052-81e2f45e2155",
       "code": "4872000000",
       "name": "경상남도 의령군",
       "shortName": "경남 의령군",
       "executionCourtId": "u-8d7c1cb9-abf1-40cd-97b2-41ad3067d8f0",
-      "order": 7100
+      "order": "107100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0e",
+      "_id": "6a4c3531050c99717369e649",
       "id": "u-3c06a0d6-b754-47f9-a35e-f2f64fdda1b1",
       "code": "4817000000",
       "name": "경상남도 진주시",
       "shortName": "진주시",
       "executionCourtId": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
-      "order": 7200
+      "order": "107200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c0f",
+      "_id": "6a4c3531050c99717369e64a",
       "id": "u-3a8821eb-bf32-4bd0-b32d-90b882c48492",
       "code": "4874000000",
       "name": "경상남도 창녕군",
       "shortName": "경남 창녕군",
       "executionCourtId": "u-5f20b195-424e-48a0-8845-805c87a64b67",
-      "order": 7300
+      "order": "107300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c10",
+      "_id": "6a4c3531050c99717369e64b",
       "id": "u-73279770-633d-4192-a5cb-b2d880245a8a",
       "code": "4812500000",
       "name": "경상남도 창원시 마산합포구",
       "shortName": "창원시 마산합포구",
       "executionCourtId": "u-8d7c1cb9-abf1-40cd-97b2-41ad3067d8f0",
-      "order": 7400
+      "order": "107400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c11",
+      "_id": "6a4c3531050c99717369e64c",
       "id": "u-7aecf6c5-121e-4919-8d36-f80385b5c6e6",
       "code": "4812700000",
       "name": "경상남도 창원시 마산회원구",
       "shortName": "창원시 마산회원구",
       "executionCourtId": "u-8d7c1cb9-abf1-40cd-97b2-41ad3067d8f0",
-      "order": 7500
+      "order": "107500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c12",
+      "_id": "6a4c3531050c99717369e64d",
       "id": "u-ce851355-1f97-4d6a-bd85-998d83fb2980",
       "code": "4812300000",
       "name": "경상남도 창원시 성산구",
       "shortName": "창원시 성산구",
       "executionCourtId": "u-077281ca-a49e-46ff-9269-d7fc6db65611",
-      "order": 7600
+      "order": "107600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c13",
+      "_id": "6a4c3531050c99717369e64e",
       "id": "u-8d463d3a-81b4-447f-bd55-c723b9eae2a8",
       "code": "4812100000",
       "name": "경상남도 창원시 의창구",
       "shortName": "창원시 의창구",
       "executionCourtId": "u-077281ca-a49e-46ff-9269-d7fc6db65611",
-      "order": 7700
+      "order": "107700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c14",
+      "_id": "6a4c3531050c99717369e64f",
       "id": "u-4284f018-3089-4d1f-a75f-55440c5447c6",
       "code": "4812900000",
       "name": "경상남도 창원시 진해구",
       "shortName": "창원시 진해구",
       "executionCourtId": "u-077281ca-a49e-46ff-9269-d7fc6db65611",
-      "order": 7800
+      "order": "107800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c15",
+      "_id": "6a4c3531050c99717369e650",
       "id": "u-736e95a6-e17f-4d1b-a866-4b4fa94ebc8a",
       "code": "4822000000",
       "name": "경상남도 통영시",
       "shortName": "통영시",
       "executionCourtId": "u-0ac5df6e-a67f-4794-bbb9-c74ecab5a2ae",
-      "order": 7900
+      "order": "107900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c16",
+      "_id": "6a4c3531050c99717369e651",
       "id": "u-c73c8615-8c4d-4962-8ba5-a0de11df12f0",
       "code": "4885000000",
       "name": "경상남도 하동군",
       "shortName": "경남 하동군",
       "executionCourtId": "u-7d200cd9-5672-4203-809c-0db11d320d7c",
-      "order": 8000
+      "order": "108000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c17",
+      "_id": "6a4c3531050c99717369e652",
       "id": "u-4ebce92c-5b05-4521-8f75-d68f5eb09f3f",
       "code": "4873000000",
       "name": "경상남도 함안군",
       "shortName": "경남 함안군",
       "executionCourtId": "u-8d7c1cb9-abf1-40cd-97b2-41ad3067d8f0",
-      "order": 8100
+      "order": "108100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c18",
+      "_id": "6a4c3531050c99717369e653",
       "id": "u-30426d45-dab1-4933-acac-f22fb90efe46",
       "code": "4887000000",
       "name": "경상남도 함양군",
       "shortName": "경남 함양군",
       "executionCourtId": "u-5b7f5e94-1024-40da-8410-48ed8738e27e",
-      "order": 8200
+      "order": "108200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c19",
+      "_id": "6a4c3531050c99717369e654",
       "id": "u-109a9b76-fe9a-45a8-87ce-bae67dcc7d67",
       "code": "4889000000",
       "name": "경상남도 합천군",
       "shortName": "경남 합천군",
       "executionCourtId": "u-5b7f5e94-1024-40da-8410-48ed8738e27e",
-      "order": 8300
+      "order": "108300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1a",
+      "_id": "6a4c3531050c99717369e655",
       "id": "u-d33be5ae-b880-45aa-a5eb-067d5808c3fd",
       "code": "4729000000",
       "name": "경상북도 경산시",
       "shortName": "경산시",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 8400
+      "order": "108400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1b",
+      "_id": "6a4c3531050c99717369e656",
       "id": "u-6fa3d20a-0de2-42c8-8eea-7401966cd4df",
       "code": "4713000000",
       "name": "경상북도 경주시",
       "shortName": "경주시",
       "executionCourtId": "u-f9f62e44-6aa4-4a4d-bdd5-f35e9fd1a898",
-      "order": 8500
+      "order": "108500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1c",
+      "_id": "6a4c3531050c99717369e657",
       "id": "u-9fd6b84f-9330-462a-863d-4a080ca10b11",
       "code": "4783000000",
       "name": "경상북도 고령군",
       "shortName": "경북 고령군",
       "executionCourtId": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
-      "order": 8600
+      "order": "108600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1d",
+      "_id": "6a4c3531050c99717369e658",
       "id": "u-46228dde-d348-4591-ac27-c92ff5343b2a",
       "code": "4719000000",
       "name": "경상북도 구미시",
       "shortName": "구미시",
       "executionCourtId": "u-49257a3b-e817-47ed-bf54-0a83c7863051",
-      "order": 8700
+      "order": "108700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1e",
+      "_id": "6a4c3531050c99717369e659",
       "id": "u-1a7acb5f-b190-49e0-afaf-e5d8e24530d0",
       "code": "4715000000",
       "name": "경상북도 김천시",
       "shortName": "김천시",
       "executionCourtId": "u-49257a3b-e817-47ed-bf54-0a83c7863051",
-      "order": 8800
+      "order": "108800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c1f",
+      "_id": "6a4c3531050c99717369e65a",
       "id": "u-81a6201a-335c-4773-8071-db214314e2ae",
       "code": "4728000000",
       "name": "경상북도 문경시",
       "shortName": "문경시",
       "executionCourtId": "u-adaa8033-a96f-41cc-b46c-0eb882a5e029",
-      "order": 8900
+      "order": "108900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c20",
+      "_id": "6a4c3531050c99717369e65b",
       "id": "u-9bd0f3ae-d6a4-4d1c-ae59-bdd1e3ae7415",
       "code": "4792000000",
       "name": "경상북도 봉화군",
       "shortName": "경북 봉화군",
       "executionCourtId": "u-3bcfda85-4c63-4307-b4ee-f877f5395f68",
-      "order": 9000
+      "order": "109000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c21",
+      "_id": "6a4c3531050c99717369e65c",
       "id": "u-f456e000-e27f-4e84-b0f3-07d03b239dc8",
       "code": "4725000000",
       "name": "경상북도 상주시",
       "shortName": "상주시",
       "executionCourtId": "u-adaa8033-a96f-41cc-b46c-0eb882a5e029",
-      "order": 9100
+      "order": "109100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c22",
+      "_id": "6a4c3531050c99717369e65d",
       "id": "u-cbb20fd4-1802-46c1-88c6-a7f6702512bb",
       "code": "4784000000",
       "name": "경상북도 성주군",
       "shortName": "경북 성주군",
       "executionCourtId": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
-      "order": 9200
+      "order": "109200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c23",
+      "_id": "6a4c3531050c99717369e65e",
       "id": "u-8855dcb4-570f-44c0-a270-2d247515847e",
       "code": "4717000000",
       "name": "경상북도 안동시",
       "shortName": "안동시",
       "executionCourtId": "u-3bcfda85-4c63-4307-b4ee-f877f5395f68",
-      "order": 9300
+      "order": "109300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c24",
+      "_id": "6a4c3531050c99717369e65f",
       "id": "u-f14e86ca-bfd2-452a-9de5-ec90f8ff855c",
       "code": "4777000000",
       "name": "경상북도 영덕군",
       "shortName": "경북 영덕군",
       "executionCourtId": "u-e10f5e66-7ad2-4dce-9a31-d010120577da",
-      "order": 9400
+      "order": "109400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c25",
+      "_id": "6a4c3531050c99717369e660",
       "id": "u-1648112e-627b-4781-9445-f1699d9ad9be",
       "code": "4776000000",
       "name": "경상북도 영양군",
       "shortName": "경북 영양군",
       "executionCourtId": "u-e10f5e66-7ad2-4dce-9a31-d010120577da",
-      "order": 9500
+      "order": "109500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c26",
+      "_id": "6a4c3531050c99717369e661",
       "id": "u-2fc39426-1310-4057-af0e-8cab5d079d09",
       "code": "4721000000",
       "name": "경상북도 영주시",
       "shortName": "영주시",
       "executionCourtId": "u-3bcfda85-4c63-4307-b4ee-f877f5395f68",
-      "order": 9600
+      "order": "109600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c27",
+      "_id": "6a4c3531050c99717369e662",
       "id": "u-a0f9f4d0-b81e-45e6-a9ce-a6ef7ac42be7",
       "code": "4723000000",
       "name": "경상북도 영천시",
       "shortName": "영천시",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 9700
+      "order": "109700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c28",
+      "_id": "6a4c3531050c99717369e663",
       "id": "u-7f1ff5bd-2cd9-4ec1-beb5-f9da01ae04d3",
       "code": "4790000000",
       "name": "경상북도 예천군",
       "shortName": "경북 예천군",
       "executionCourtId": "u-adaa8033-a96f-41cc-b46c-0eb882a5e029",
-      "order": 9800
+      "order": "109800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c29",
+      "_id": "6a4c3531050c99717369e664",
       "id": "u-9d2a1dc6-e6d2-44b7-b9b2-711ef205cca8",
       "code": "4794000000",
       "name": "경상북도 울릉군",
       "shortName": "경북 울릉군",
       "executionCourtId": "u-abc0523d-718a-4171-8838-acaefd08cd1f",
-      "order": 9900
+      "order": "109900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2a",
+      "_id": "6a4c3531050c99717369e665",
       "id": "u-3585124a-82f7-4f07-ac43-062375217a54",
       "code": "4793000000",
       "name": "경상북도 울진군",
       "shortName": "경북 울진군",
       "executionCourtId": "u-e10f5e66-7ad2-4dce-9a31-d010120577da",
-      "order": 10000
+      "order": "110000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2b",
+      "_id": "6a4c3531050c99717369e666",
       "id": "u-9075b7b7-166a-4ce5-90cb-91e173fb0a23",
       "code": "4773000000",
       "name": "경상북도 의성군",
       "shortName": "경북 의성군",
       "executionCourtId": "u-aa5d03f8-9569-420a-a239-948fa61c596a",
-      "order": 10100
+      "order": "110100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2c",
+      "_id": "6a4c3531050c99717369e667",
       "id": "u-4f8adae1-1160-4527-bb6c-32f7889a7e2c",
       "code": "4782000000",
       "name": "경상북도 청도군",
       "shortName": "경북 청도군",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 10200
+      "order": "110200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2d",
+      "_id": "6a4c3531050c99717369e668",
       "id": "u-d020057f-8e0c-431b-ae3a-08d98d4ebd6c",
       "code": "4775000000",
       "name": "경상북도 청송군",
       "shortName": "경북 청송군",
       "executionCourtId": "u-aa5d03f8-9569-420a-a239-948fa61c596a",
-      "order": 10300
+      "order": "110300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2e",
+      "_id": "6a4c3531050c99717369e669",
       "id": "u-c72d7bd3-fa3d-4236-a505-2d2a5699c825",
       "code": "4785000000",
       "name": "경상북도 칠곡군",
       "shortName": "경북 칠곡군",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 10400
+      "order": "110400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c2f",
+      "_id": "6a4c3531050c99717369e66a",
       "id": "u-0d9d2eb8-6882-4b69-a56d-19b419276d27",
       "code": "4711100000",
       "name": "경상북도 포항시 남구",
       "shortName": "포항시 남구",
       "executionCourtId": "u-abc0523d-718a-4171-8838-acaefd08cd1f",
-      "order": 10500
+      "order": "110500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c30",
+      "_id": "6a4c3531050c99717369e66b",
       "id": "u-ad77615a-a5d4-4296-9110-3a46f272f365",
       "code": "4711300000",
       "name": "경상북도 포항시 북구",
       "shortName": "포항시 북구",
       "executionCourtId": "u-abc0523d-718a-4171-8838-acaefd08cd1f",
-      "order": 10600
+      "order": "110600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c31",
+      "_id": "6a4c3531050c99717369e66c",
       "id": "u-7efc397a-d39e-477a-ae33-559c5ee1b503",
       "code": "2920000000",
       "name": "광주광역시 광산구",
       "shortName": "광주 광산구",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 10700
+      "order": "110700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c32",
+      "_id": "6a4c3531050c99717369e66d",
       "id": "u-159e8337-b298-41ff-9272-9819e9709c40",
       "code": "2915500000",
       "name": "광주광역시 남구",
       "shortName": "광주 남구",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 10800
+      "order": "110800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c33",
+      "_id": "6a4c3531050c99717369e66e",
       "id": "u-0446c233-822e-4792-abe3-2ff0c50a88af",
       "code": "2911000000",
       "name": "광주광역시 동구",
       "shortName": "광주 동구",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 10900
+      "order": "110900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c34",
+      "_id": "6a4c3531050c99717369e66f",
       "id": "u-0e6b235c-9ba1-4498-990f-5ba1d0993283",
       "code": "2917000000",
       "name": "광주광역시 북구",
       "shortName": "광주 북구",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 11000
+      "order": "111000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c35",
+      "_id": "6a4c3531050c99717369e670",
       "id": "u-5c7c7322-5305-46bf-be26-34f3d99a9912",
       "code": "2914000000",
       "name": "광주광역시 서구",
       "shortName": "광주 서구",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 11100
+      "order": "111100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c36",
+      "_id": "6a4c3531050c99717369e671",
       "id": "u-56cf5340-7f79-4b52-8059-c10640c1a1c6",
       "code": "2772000000",
       "name": "대구광역시 군위군",
       "shortName": "대구 군위군",
       "executionCourtId": "u-aa5d03f8-9569-420a-a239-948fa61c596a",
-      "order": 11200
+      "order": "111200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c37",
+      "_id": "6a4c3531050c99717369e672",
       "id": "u-753a6f33-a50b-436a-8384-705bd6128481",
       "code": "2720000000",
       "name": "대구광역시 남구",
       "shortName": "대구 남구",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 11300
+      "order": "111300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c38",
+      "_id": "6a4c3531050c99717369e673",
       "id": "u-42f55487-7a5e-4215-9324-d0fb6c240596",
       "code": "2729000000",
       "name": "대구광역시 달서구",
       "shortName": "대구 달서구",
       "executionCourtId": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
-      "order": 11400
+      "order": "111400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c39",
+      "_id": "6a4c3531050c99717369e674",
       "id": "u-81e77ec6-b005-47e0-b6f0-383b49842882",
       "code": "2771000000",
       "name": "대구광역시 달성군",
       "shortName": "대구 달성군",
       "executionCourtId": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
-      "order": 11500
+      "order": "111500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3a",
+      "_id": "6a4c3531050c99717369e675",
       "id": "u-87b33de2-2b95-41b1-81eb-5b19e4b0f2d7",
       "code": "2714000000",
       "name": "대구광역시 동구",
       "shortName": "대구 동구",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 11600
+      "order": "111600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3b",
+      "_id": "6a4c3531050c99717369e676",
       "id": "u-b915eeba-1b6a-474b-8c72-33a52365c544",
       "code": "2723000000",
       "name": "대구광역시 북구",
       "shortName": "대구 북구",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 11700
+      "order": "111700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3c",
+      "_id": "6a4c3531050c99717369e677",
       "id": "u-be1bddb0-7d7f-47e1-9d7b-4a9504be2852",
       "code": "2717000000",
       "name": "대구광역시 서구",
       "shortName": "대구 서구",
       "executionCourtId": "u-9ba47d1b-c969-491c-88d2-44d3533681dc",
-      "order": 11800
+      "order": "111800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3d",
+      "_id": "6a4c3531050c99717369e678",
       "id": "u-f1bd64fa-7595-4c27-b33a-25670c9f7f2d",
       "code": "2726000000",
       "name": "대구광역시 수성구",
       "shortName": "대구 수성구",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 11900
+      "order": "111900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3e",
+      "_id": "6a4c3531050c99717369e679",
       "id": "u-d38c6317-af47-4faf-a076-16a938cd63a7",
       "code": "2711000000",
       "name": "대구광역시 중구",
       "shortName": "대구 중구",
       "executionCourtId": "u-f72d48d1-69ba-4c9d-a9b3-6d29d5e587ea",
-      "order": 12000
+      "order": "112000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c3f",
+      "_id": "6a4c3531050c99717369e67a",
       "id": "u-f088e087-b347-475e-8364-80a5ee71aea2",
       "code": "3023000000",
       "name": "대전광역시 대덕구",
       "shortName": "대전 대덕구",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 12100
+      "order": "112100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c40",
+      "_id": "6a4c3531050c99717369e67b",
       "id": "u-7ba52cc5-b418-4256-b1f8-25fa88aa7949",
       "code": "3011000000",
       "name": "대전광역시 동구",
       "shortName": "대전 동구",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 12200
+      "order": "112200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c41",
+      "_id": "6a4c3531050c99717369e67c",
       "id": "u-0e78d07f-42d5-4bbd-ba2a-1a3baa0210e4",
       "code": "3017000000",
       "name": "대전광역시 서구",
       "shortName": "대전 서구",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 12300
+      "order": "112300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c42",
+      "_id": "6a4c3531050c99717369e67d",
       "id": "u-86c4c20b-212a-454b-8add-7324ee4be234",
       "code": "3020000000",
       "name": "대전광역시 유성구",
       "shortName": "대전 유성구",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 12400
+      "order": "112400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c43",
+      "_id": "6a4c3531050c99717369e67e",
       "id": "u-43a5c18e-fd72-41c9-b311-490774fa7842",
       "code": "3014000000",
       "name": "대전광역시 중구",
       "shortName": "대전 중구",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 12500
+      "order": "112500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c44",
+      "_id": "6a4c3531050c99717369e67f",
       "id": "u-5cfddf49-95ad-4be1-869c-b30903c1f5ee",
       "code": "2644000000",
       "name": "부산광역시 강서구",
       "shortName": "부산 강서구",
       "executionCourtId": "u-a295c759-1309-4934-9039-2ca00b7109a0",
-      "order": 12600
+      "order": "112600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c45",
+      "_id": "6a4c3531050c99717369e680",
       "id": "u-538cb91f-c0cb-4c80-97bf-3406c18ffc3a",
       "code": "2641000000",
       "name": "부산광역시 금정구",
       "shortName": "부산 금정구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 12700
+      "order": "112700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c46",
+      "_id": "6a4c3531050c99717369e681",
       "id": "u-693c28a6-993e-474b-965e-16d3cbddbc0a",
       "code": "2671000000",
       "name": "부산광역시 기장군",
       "shortName": "부산 기장군",
       "executionCourtId": "u-046203f7-ce6c-4c00-8a9a-a49b523b2667",
-      "order": 12800
+      "order": "112800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c47",
+      "_id": "6a4c3531050c99717369e682",
       "id": "u-4cf8ec77-d032-4f64-86d6-926c2798f086",
       "code": "2629000000",
       "name": "부산광역시 남구",
       "shortName": "부산 남구",
       "executionCourtId": "u-046203f7-ce6c-4c00-8a9a-a49b523b2667",
-      "order": 12900
+      "order": "112900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c48",
+      "_id": "6a4c3531050c99717369e683",
       "id": "u-c18c7629-a640-4606-890c-ed32b1386080",
       "code": "2617000000",
       "name": "부산광역시 동구",
       "shortName": "부산 동구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 13000
+      "order": "113000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c49",
+      "_id": "6a4c3531050c99717369e684",
       "id": "u-6311ea7d-c3ab-4f20-b768-994cf0722895",
       "code": "2626000000",
       "name": "부산광역시 동래구",
       "shortName": "부산 동래구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 13100
+      "order": "113100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4a",
+      "_id": "6a4c3531050c99717369e685",
       "id": "u-409f11f0-5821-4fe1-b3ed-dfd1b43b7383",
       "code": "2623000000",
       "name": "부산광역시 부산진구",
       "shortName": "부산 부산진구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 13200
+      "order": "113200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4b",
+      "_id": "6a4c3531050c99717369e686",
       "id": "u-546b7ec3-ed7d-457b-b284-fb2a102da22b",
       "code": "2632000000",
       "name": "부산광역시 북구",
       "shortName": "부산 북구",
       "executionCourtId": "u-a295c759-1309-4934-9039-2ca00b7109a0",
-      "order": 13300
+      "order": "113300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4c",
+      "_id": "6a4c3531050c99717369e687",
       "id": "u-a6f576fa-9e19-4ddf-8906-87fda0bf6045",
       "code": "2653000000",
       "name": "부산광역시 사상구",
       "shortName": "부산 사상구",
       "executionCourtId": "u-a295c759-1309-4934-9039-2ca00b7109a0",
-      "order": 13400
+      "order": "113400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4d",
+      "_id": "6a4c3531050c99717369e688",
       "id": "u-6c83edcc-54ba-4da6-b39a-40b629511f36",
       "code": "2638000000",
       "name": "부산광역시 사하구",
       "shortName": "부산 사하구",
       "executionCourtId": "u-a295c759-1309-4934-9039-2ca00b7109a0",
-      "order": 13500
+      "order": "113500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4e",
+      "_id": "6a4c3531050c99717369e689",
       "id": "u-390f2d49-d928-4814-855a-acdc25093953",
       "code": "2614000000",
       "name": "부산광역시 서구",
       "shortName": "부산 서구",
       "executionCourtId": "u-a295c759-1309-4934-9039-2ca00b7109a0",
-      "order": 13600
+      "order": "113600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c4f",
+      "_id": "6a4c3531050c99717369e68a",
       "id": "u-82059ae6-da89-4525-abf5-acbb5c2b4451",
       "code": "2650000000",
       "name": "부산광역시 수영구",
       "shortName": "부산 수영구",
       "executionCourtId": "u-046203f7-ce6c-4c00-8a9a-a49b523b2667",
-      "order": 13700
+      "order": "113700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c50",
+      "_id": "6a4c3531050c99717369e68b",
       "id": "u-b86c346a-9c4f-4bbe-8c31-e6a8d2546905",
       "code": "2647000000",
       "name": "부산광역시 연제구",
       "shortName": "부산 연제구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 13800
+      "order": "113800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c51",
+      "_id": "6a4c3531050c99717369e68c",
       "id": "u-ce8ae104-7f95-4b42-8206-1457865b4501",
       "code": "2620000000",
       "name": "부산광역시 영도구",
       "shortName": "부산 영도구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 13900
+      "order": "113900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c52",
+      "_id": "6a4c3531050c99717369e68d",
       "id": "u-e7bdd15e-f0fa-43d6-9382-f68967b3682c",
       "code": "2611000000",
       "name": "부산광역시 중구",
       "shortName": "부산 중구",
       "executionCourtId": "u-2a98310a-8306-443e-9b8f-787693a62869",
-      "order": 14000
+      "order": "114000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c53",
+      "_id": "6a4c3531050c99717369e68e",
       "id": "u-5241b523-e94f-4b20-9f80-cbead333adcf",
       "code": "2635000000",
       "name": "부산광역시 해운대구",
       "shortName": "부산 해운대구",
       "executionCourtId": "u-046203f7-ce6c-4c00-8a9a-a49b523b2667",
-      "order": 14100
+      "order": "114100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c54",
+      "_id": "6a4c3531050c99717369e68f",
       "id": "u-6b376969-8ef9-4532-9e05-3fb7091cd432",
       "code": "1168000000",
       "name": "서울특별시 강남구",
       "shortName": "서울 강남구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 14200
+      "order": "114200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c55",
+      "_id": "6a4c3531050c99717369e690",
       "id": "u-ebf3a9b6-61e4-4d99-9080-a87974471721",
       "code": "1174000000",
       "name": "서울특별시 강동구",
       "shortName": "서울 강동구",
       "executionCourtId": "u-14dc24ac-f376-4dff-a69e-ee2d44fb057e",
-      "order": 14300
+      "order": "114300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c56",
+      "_id": "6a4c3531050c99717369e691",
       "id": "u-2f22d119-0454-4de0-9566-239f2d1580ee",
       "code": "1130500000",
       "name": "서울특별시 강북구",
       "shortName": "서울 강북구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 14400
+      "order": "114400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c57",
+      "_id": "6a4c3531050c99717369e692",
       "id": "u-bdc9c49b-2784-4215-ac83-98f8b6e31156",
       "code": "1150000000",
       "name": "서울특별시 강서구",
       "shortName": "서울 강서구",
       "executionCourtId": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
-      "order": 14500
+      "order": "114500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c58",
+      "_id": "6a4c3531050c99717369e693",
       "id": "u-f8ff1ba9-3c27-45a9-b02f-c11ea7cd08e7",
       "code": "1162000000",
       "name": "서울특별시 관악구",
       "shortName": "서울 관악구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 14600
+      "order": "114600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c59",
+      "_id": "6a4c3531050c99717369e694",
       "id": "u-75cd758a-4e89-4d87-975d-669d9ad2c88c",
       "code": "1121500000",
       "name": "서울특별시 광진구",
       "shortName": "서울 광진구",
       "executionCourtId": "u-14dc24ac-f376-4dff-a69e-ee2d44fb057e",
-      "order": 14700
+      "order": "114700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5a",
+      "_id": "6a4c3531050c99717369e695",
       "id": "u-772d44a5-9a55-4b3f-a5fd-b02de666a114",
       "code": "1153000000",
       "name": "서울특별시 구로구",
       "shortName": "서울 구로구",
       "executionCourtId": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
-      "order": 14800
+      "order": "114800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5b",
+      "_id": "6a4c3531050c99717369e696",
       "id": "u-570bf81f-b6f6-49de-9445-0e6bde0842e8",
       "code": "1154500000",
       "name": "서울특별시 금천구",
       "shortName": "서울 금천구",
       "executionCourtId": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
-      "order": 14900
+      "order": "114900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5c",
+      "_id": "6a4c3531050c99717369e697",
       "id": "u-82149dad-4cd1-4f75-859c-a3701d555541",
       "code": "1135000000",
       "name": "서울특별시 노원구",
       "shortName": "서울 노원구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 15000
+      "order": "115000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5d",
+      "_id": "6a4c3531050c99717369e698",
       "id": "u-3e7480df-ed0e-48ee-ace1-4f9c40107092",
       "code": "1132000000",
       "name": "서울특별시 도봉구",
       "shortName": "서울 도봉구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 15100
+      "order": "115100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5e",
+      "_id": "6a4c3531050c99717369e699",
       "id": "u-fd8bc9b3-dadd-4633-8187-bac25fd9c8b3",
       "code": "1123000000",
       "name": "서울특별시 동대문구",
       "shortName": "서울 동대문구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 15200
+      "order": "115200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c5f",
+      "_id": "6a4c3531050c99717369e69a",
       "id": "u-35c3a0b0-af8a-42f2-858d-6a071ddf21ed",
       "code": "1159000000",
       "name": "서울특별시 동작구",
       "shortName": "서울 동작구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 15300
+      "order": "115300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c60",
+      "_id": "6a4c3531050c99717369e69b",
       "id": "u-f52af89b-2191-4a3c-919e-503922ceda73",
       "code": "1144000000",
       "name": "서울특별시 마포구",
       "shortName": "서울 마포구",
       "executionCourtId": "u-4fb58886-7a46-4466-86c7-a0af07196380",
-      "order": 15400
+      "order": "115400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c61",
+      "_id": "6a4c3531050c99717369e69c",
       "id": "u-da74bd3a-0a23-4ff2-8327-c2ab896952a6",
       "code": "1141000000",
       "name": "서울특별시 서대문구",
       "shortName": "서울 서대문구",
       "executionCourtId": "u-4fb58886-7a46-4466-86c7-a0af07196380",
-      "order": 15500
+      "order": "115500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c62",
+      "_id": "6a4c3531050c99717369e69d",
       "id": "u-4f040b37-1c30-41da-ab8d-272e55e28a62",
       "code": "1165000000",
       "name": "서울특별시 서초구",
       "shortName": "서울 서초구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 15600
+      "order": "115600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c63",
+      "_id": "6a4c3531050c99717369e69e",
       "id": "u-4d59e205-5130-4c06-937b-ca625f87721e",
       "code": "1120000000",
       "name": "서울특별시 성동구",
       "shortName": "서울 성동구",
       "executionCourtId": "u-14dc24ac-f376-4dff-a69e-ee2d44fb057e",
-      "order": 15700
+      "order": "115700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c64",
+      "_id": "6a4c3531050c99717369e69f",
       "id": "u-6f68733a-f372-4a03-b1b6-6505f01a61bb",
       "code": "1129000000",
       "name": "서울특별시 성북구",
       "shortName": "서울 성북구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 15800
+      "order": "115800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c65",
+      "_id": "6a4c3531050c99717369e6a0",
       "id": "u-fc4c2082-ac9a-483c-8496-31211d0a02cf",
       "code": "1171000000",
       "name": "서울특별시 송파구",
       "shortName": "서울 송파구",
       "executionCourtId": "u-14dc24ac-f376-4dff-a69e-ee2d44fb057e",
-      "order": 15900
+      "order": "115900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c66",
+      "_id": "6a4c3531050c99717369e6a1",
       "id": "u-0fef933c-47ec-46b8-9795-e12df8987d48",
       "code": "1147000000",
       "name": "서울특별시 양천구",
       "shortName": "서울 양천구",
       "executionCourtId": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
-      "order": 16000
+      "order": "116000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c67",
+      "_id": "6a4c3531050c99717369e6a2",
       "id": "u-83b10e2c-7b4e-4d58-9cf0-74a8007c4949",
       "code": "1156000000",
       "name": "서울특별시 영등포구",
       "shortName": "서울 영등포구",
       "executionCourtId": "u-d57751b1-4052-4ecc-b1b9-19a513abbbfb",
-      "order": 16100
+      "order": "116100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c68",
+      "_id": "6a4c3531050c99717369e6a3",
       "id": "u-913cdbb2-c03f-4e2d-a47d-c18f606cfee5",
       "code": "1117000000",
       "name": "서울특별시 용산구",
       "shortName": "서울 용산구",
       "executionCourtId": "u-4fb58886-7a46-4466-86c7-a0af07196380",
-      "order": 16200
+      "order": "116200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c69",
+      "_id": "6a4c3531050c99717369e6a4",
       "id": "u-f81e98ef-8a82-44c4-b08c-52c6c12b107c",
       "code": "1138000000",
       "name": "서울특별시 은평구",
       "shortName": "서울 은평구",
       "executionCourtId": "u-4fb58886-7a46-4466-86c7-a0af07196380",
-      "order": 16300
+      "order": "116300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6a",
+      "_id": "6a4c3531050c99717369e6a5",
       "id": "u-e85dea41-418d-4928-b3d0-2378d01af8a1",
       "code": "1111000000",
       "name": "서울특별시 종로구",
       "shortName": "서울 종로구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 16400
+      "order": "116400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6b",
+      "_id": "6a4c3531050c99717369e6a6",
       "id": "u-96a9ceb2-e227-4519-922e-82445c02fef2",
       "code": "1114000000",
       "name": "서울특별시 중구",
       "shortName": "서울 중구",
       "executionCourtId": "u-7545309e-a505-4095-8dea-af88fa4a6803",
-      "order": 16500
+      "order": "116500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6c",
+      "_id": "6a4c3531050c99717369e6a7",
       "id": "u-79c07abf-c6d4-4c72-8739-affa60358dd7",
       "code": "1126000000",
       "name": "서울특별시 중랑구",
       "shortName": "서울 중랑구",
       "executionCourtId": "u-44eea48c-9c35-4902-9431-164e6a77cba0",
-      "order": 16600
+      "order": "116600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6d",
+      "_id": "6a4c3531050c99717369e6a8",
       "id": "u-2d85b29d-bd19-48b5-baa4-797e7dea3676",
       "code": "3611000000",
       "name": "세종특별자치시",
       "shortName": "세종",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 16700
+      "order": "116700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6e",
+      "_id": "6a4c3531050c99717369e6a9",
       "id": "u-4d8b59ac-c68a-4f92-9a7c-837a924b2e47",
       "code": "3114000000",
       "name": "울산광역시 남구",
       "shortName": "울산 남구",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 16800
+      "order": "116800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c6f",
+      "_id": "6a4c3531050c99717369e6aa",
       "id": "u-bab59ffb-5578-4ae0-9018-3398b9e319c6",
       "code": "3117000000",
       "name": "울산광역시 동구",
       "shortName": "울산 동구",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 16900
+      "order": "116900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c70",
+      "_id": "6a4c3531050c99717369e6ab",
       "id": "u-966335ce-e9f3-4af0-b230-be761de6203c",
       "code": "3120000000",
       "name": "울산광역시 북구",
       "shortName": "울산 북구",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 17000
+      "order": "117000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c71",
+      "_id": "6a4c3531050c99717369e6ac",
       "id": "u-fd5e9019-f1f8-4e69-afc8-faa953935c40",
       "code": "3171000000",
       "name": "울산광역시 울주군",
       "shortName": "울산 울주군",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 17100
+      "order": "117100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c72",
+      "_id": "6a4c3531050c99717369e6ad",
       "id": "u-83fb2912-a830-4004-9de2-cd274e2e7049",
       "code": "3111000000",
       "name": "울산광역시 중구",
       "shortName": "울산 중구",
       "executionCourtId": "u-a451d376-7b7a-40aa-b451-dd9e1e15ee39",
-      "order": 17200
+      "order": "117200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c73",
+      "_id": "6a4c3531050c99717369e6ae",
       "id": "u-32bcf4d5-3d00-46e3-bfe2-44f75476e313",
       "code": "2871000000",
       "name": "인천광역시 강화군",
       "shortName": "인천 강화군",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17300
+      "order": "117300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c74",
+      "_id": "6a4c3531050c99717369e6af",
       "id": "u-95789065-a280-40c4-ac58-c3912c831570",
       "code": "2824500000",
       "name": "인천광역시 계양구",
       "shortName": "인천 계양구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17400
+      "order": "117400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c75",
+      "_id": "6a4c3531050c99717369e6b0",
       "id": "u-65df32ab-fc97-4434-87ea-83724a7ec57c",
       "code": "2820000000",
       "name": "인천광역시 남동구",
       "shortName": "인천 남동구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17500
+      "order": "117500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c76",
+      "_id": "6a4c3531050c99717369e6b1",
       "id": "u-db819fd7-931f-4e99-844d-ffc54ca005b6",
       "code": "2814000000",
       "name": "인천광역시 동구",
       "shortName": "인천 동구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17600
+      "order": "117600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c77",
+      "_id": "6a4c3531050c99717369e6b2",
       "id": "u-177f97b8-60b3-4785-9b5a-7af8c3ad9cc1",
       "code": "2817700000",
       "name": "인천광역시 미추홀구",
       "shortName": "인천 미추홀구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17700
+      "order": "117700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c78",
+      "_id": "6a4c3531050c99717369e6b3",
       "id": "u-ffe636de-e421-4f01-a245-238d41ef9d7b",
       "code": "2823700000",
       "name": "인천광역시 부평구",
       "shortName": "인천 부평구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17800
+      "order": "117800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c79",
+      "_id": "6a4c3531050c99717369e6b4",
       "id": "u-3f5d3d71-1028-42e7-b0b6-e568ccba13c8",
       "code": "2826000000",
       "name": "인천광역시 서구",
       "shortName": "인천 서구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 17900
+      "order": "117900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7a",
+      "_id": "6a4c3531050c99717369e6b5",
       "id": "u-099916a8-44da-41d2-acbe-cd6680774e82",
       "code": "2818500000",
       "name": "인천광역시 연수구",
       "shortName": "인천 연수구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 18000
+      "order": "118000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7b",
+      "_id": "6a4c3531050c99717369e6b6",
       "id": "u-a11405c1-9832-40cb-811e-cdcb0fb14dd3",
       "code": "2872000000",
       "name": "인천광역시 옹진군",
       "shortName": "인천 옹진군",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 18100
+      "order": "118100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7c",
+      "_id": "6a4c3531050c99717369e6b7",
       "id": "u-926e6590-0d2e-45df-85ae-0b9165310bd0",
       "code": "2811000000",
       "name": "인천광역시 중구",
       "shortName": "인천 중구",
       "executionCourtId": "u-eb01682e-61d2-4803-b094-10f6f524f948",
-      "order": 18200
+      "order": "118200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7d",
+      "_id": "6a4c3531050c99717369e6b8",
       "id": "u-d70f1fd2-be2a-45e7-864d-128f412889e8",
       "code": "4681000000",
       "name": "전라남도 강진군",
       "shortName": "전남 강진군",
       "executionCourtId": "u-0bf2b7d7-c3d8-42b2-960a-bd1a1c546e06",
-      "order": 18300
+      "order": "118300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7e",
+      "_id": "6a4c3531050c99717369e6b9",
       "id": "u-764b9f4d-e460-4b93-8d33-8de8c277f574",
       "code": "4677000000",
       "name": "전라남도 고흥군",
       "shortName": "전남 고흥군",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 18400
+      "order": "118400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c7f",
+      "_id": "6a4c3531050c99717369e6ba",
       "id": "u-d6d80369-936f-4989-ac2c-d3b5992ca05e",
       "code": "4672000000",
       "name": "전라남도 곡성군",
       "shortName": "전남 곡성군",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 18500
+      "order": "118500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c80",
+      "_id": "6a4c3531050c99717369e6bb",
       "id": "u-ec4531ea-2140-486b-bc8d-47b108e462f2",
       "code": "4623000000",
       "name": "전라남도 광양시",
       "shortName": "광양시",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 18600
+      "order": "118600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c81",
+      "_id": "6a4c3531050c99717369e6bc",
       "id": "u-256b75bc-6ca4-420f-b2f5-609cef77d245",
       "code": "4673000000",
       "name": "전라남도 구례군",
       "shortName": "전남 구례군",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 18700
+      "order": "118700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c82",
+      "_id": "6a4c3531050c99717369e6bd",
       "id": "u-0b20199f-5db0-44ee-9086-8a929cb4c7c1",
       "code": "4617000000",
       "name": "전라남도 나주시",
       "shortName": "전남 나주시",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 18800
+      "order": "118800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c83",
+      "_id": "6a4c3531050c99717369e6be",
       "id": "u-9d6590a0-63e9-4f89-971b-3bbf99758d11",
       "code": "4671000000",
       "name": "전라남도 담양군",
       "shortName": "전남 담양군",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 18900
+      "order": "118900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c84",
+      "_id": "6a4c3531050c99717369e6bf",
       "id": "u-bfe0cd54-a555-4bb6-aa63-ccbb4baab44b",
       "code": "4611000000",
       "name": "전라남도 목포시",
       "shortName": "목포시",
       "executionCourtId": "u-74aefa84-ae94-4559-a594-610227def29f",
-      "order": 19000
+      "order": "119000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c85",
+      "_id": "6a4c3531050c99717369e6c0",
       "id": "u-eb6c1adb-3d21-4a88-9023-a25c9e53e879",
       "code": "4684000000",
       "name": "전라남도 무안군",
       "shortName": "전남 무안군",
       "executionCourtId": "u-74aefa84-ae94-4559-a594-610227def29f",
-      "order": 19100
+      "order": "119100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c86",
+      "_id": "6a4c3531050c99717369e6c1",
       "id": "u-b9c95fcd-3a40-415c-974f-5309f5b05a91",
       "code": "4678000000",
       "name": "전라남도 보성군",
       "shortName": "전남 보성군",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 19200
+      "order": "119200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c87",
+      "_id": "6a4c3531050c99717369e6c2",
       "id": "u-a74c3217-fab7-42cf-8254-990a8a4eb637",
       "code": "4615000000",
       "name": "전라남도 순천시",
       "shortName": "순천시",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 19300
+      "order": "119300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c88",
+      "_id": "6a4c3531050c99717369e6c3",
       "id": "u-08ccbf1f-636c-4243-b6ec-edacca809c19",
       "code": "4691000000",
       "name": "전라남도 신안군",
       "shortName": "전남 신안군",
       "executionCourtId": "u-74aefa84-ae94-4559-a594-610227def29f",
-      "order": 19400
+      "order": "119400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c89",
+      "_id": "6a4c3531050c99717369e6c4",
       "id": "u-99715869-7d03-4138-86fe-1209a2cf9df7",
       "code": "4613000000",
       "name": "전라남도 여수시",
       "shortName": "여수시",
       "executionCourtId": "u-446020ad-5562-4764-9bfe-204fc793e8dd",
-      "order": 19500
+      "order": "119500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8a",
+      "_id": "6a4c3531050c99717369e6c5",
       "id": "u-2f8e77be-75a0-49b5-b99a-fb7b7d27e5bb",
       "code": "4687000000",
       "name": "전라남도 영광군",
       "shortName": "전남 영광군",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 19600
+      "order": "119600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8b",
+      "_id": "6a4c3531050c99717369e6c6",
       "id": "u-4d1db8c6-1973-45ec-895e-a387ba672956",
       "code": "4683000000",
       "name": "전라남도 영암군",
       "shortName": "전남 영암군",
       "executionCourtId": "u-74aefa84-ae94-4559-a594-610227def29f",
-      "order": 19700
+      "order": "119700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8c",
+      "_id": "6a4c3531050c99717369e6c7",
       "id": "u-11a736c5-944f-4010-84ea-75b0daeabf59",
       "code": "4689000000",
       "name": "전라남도 완도군",
       "shortName": "전남 완도군",
       "executionCourtId": "u-52cdb1b4-efc1-4eef-8377-878e17b32ac0",
-      "order": 19800
+      "order": "119800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8d",
+      "_id": "6a4c3531050c99717369e6c8",
       "id": "u-faa8c8de-f6db-41f2-9ce7-fe6119b9fcd6",
       "code": "4688000000",
       "name": "전라남도 장성군",
       "shortName": "전남 장성군",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 19900
+      "order": "119900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8e",
+      "_id": "6a4c3531050c99717369e6c9",
       "id": "u-f4eef22d-facf-471c-83da-32083b6a1976",
       "code": "4680000000",
       "name": "전라남도 장흥군",
       "shortName": "전남 장흥군",
       "executionCourtId": "u-0bf2b7d7-c3d8-42b2-960a-bd1a1c546e06",
-      "order": 20000
+      "order": "120000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c8f",
+      "_id": "6a4c3531050c99717369e6ca",
       "id": "u-4a09db24-0f48-4aa5-978d-3e1afea727ae",
       "code": "4690000000",
       "name": "전라남도 진도군",
       "shortName": "전남 진도군",
       "executionCourtId": "u-52cdb1b4-efc1-4eef-8377-878e17b32ac0",
-      "order": 20100
+      "order": "120100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c90",
+      "_id": "6a4c3531050c99717369e6cb",
       "id": "u-100d9de8-d477-4f0c-a94b-3afbb34b6cb5",
       "code": "4686000000",
       "name": "전라남도 함평군",
       "shortName": "전남 함평군",
       "executionCourtId": "u-74aefa84-ae94-4559-a594-610227def29f",
-      "order": 20200
+      "order": "120200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c91",
+      "_id": "6a4c3531050c99717369e6cc",
       "id": "u-dc79aa60-c39d-4d73-a030-dc904cb28abb",
       "code": "4682000000",
       "name": "전라남도 해남군",
       "shortName": "전남 해남군",
       "executionCourtId": "u-52cdb1b4-efc1-4eef-8377-878e17b32ac0",
-      "order": 20300
+      "order": "120300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c92",
+      "_id": "6a4c3531050c99717369e6cd",
       "id": "u-8ad2e8c1-4ef8-4c65-8669-893a17874a4a",
       "code": "4679025000",
       "name": "전라남도 화순군",
       "shortName": "전남 화순군",
       "executionCourtId": "u-01472c71-9167-401b-a221-fd0bdfeb09a3",
-      "order": 20400
+      "order": "120400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c93",
+      "_id": "6a4c3531050c99717369e6ce",
       "id": "u-9c301b48-9dfa-4370-b136-8373a041454c",
       "code": "5279000000",
       "name": "전북특별자치도 고창군",
       "shortName": "전북 고창군",
       "executionCourtId": "u-43753b27-67d4-485c-aa3b-576040c5549d",
-      "order": 20500
+      "order": "120500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c94",
+      "_id": "6a4c3531050c99717369e6cf",
       "id": "u-15c745f8-99a7-4179-bb75-1599df0fe5e5",
       "code": "5213000000",
       "name": "전북특별자치도 군산시",
       "shortName": "군산시",
       "executionCourtId": "u-553562cc-6cc1-427a-bdc8-b091a01c86bc",
-      "order": 20600
+      "order": "120600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c95",
+      "_id": "6a4c3531050c99717369e6d0",
       "id": "u-9c1e5d48-0a7c-4aa3-91ef-986c8370b4f4",
       "code": "5221000000",
       "name": "전북특별자치도 김제시",
       "shortName": "김제시",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 20700
+      "order": "120700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c96",
+      "_id": "6a4c3531050c99717369e6d1",
       "id": "u-fdecfab4-b46f-41eb-a535-3d7813f3fa91",
       "code": "5219000000",
       "name": "전북특별자치도 남원시",
       "shortName": "남원시",
       "executionCourtId": "u-ced87051-cea5-40de-8c70-29db4380203d",
-      "order": 20800
+      "order": "120800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c97",
+      "_id": "6a4c3531050c99717369e6d2",
       "id": "u-93b924bd-a4ca-4757-a831-b35943eb6cd3",
       "code": "5273000000",
       "name": "전북특별자치도 무주군",
       "shortName": "전북 무주군",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 20900
+      "order": "120900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c98",
+      "_id": "6a4c3531050c99717369e6d3",
       "id": "u-f1369121-7950-4ea6-8d6b-009523d40f88",
       "code": "5280000000",
       "name": "전북특별자치도 부안군",
       "shortName": "전북 부안군",
       "executionCourtId": "u-43753b27-67d4-485c-aa3b-576040c5549d",
-      "order": 21000
+      "order": "121000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c99",
+      "_id": "6a4c3531050c99717369e6d4",
       "id": "u-4e014146-96fa-436c-8828-66bda1fa8fd6",
       "code": "5277000000",
       "name": "전북특별자치도 순창군",
       "shortName": "전북 순창군",
       "executionCourtId": "u-ced87051-cea5-40de-8c70-29db4380203d",
-      "order": 21100
+      "order": "121100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9a",
+      "_id": "6a4c3531050c99717369e6d5",
       "id": "u-eb0c7278-3a9e-4caa-9be2-b52c8bfcb8c9",
       "code": "5271000000",
       "name": "전북특별자치도 완주군",
       "shortName": "전북 완주군",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 21200
+      "order": "121200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9b",
+      "_id": "6a4c3531050c99717369e6d6",
       "id": "u-83b25ae3-97f0-4e37-b4e6-17066c41232c",
       "code": "5214000000",
       "name": "전북특별자치도 익산시",
       "shortName": "익산시",
       "executionCourtId": "u-553562cc-6cc1-427a-bdc8-b091a01c86bc",
-      "order": 21300
+      "order": "121300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9c",
+      "_id": "6a4c3531050c99717369e6d7",
       "id": "u-03453b01-185e-4680-93d1-023c77376664",
       "code": "5275000000",
       "name": "전북특별자치도 임실군",
       "shortName": "전북 임실군",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 21400
+      "order": "121400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9d",
+      "_id": "6a4c3531050c99717369e6d8",
       "id": "u-57217d28-7a06-4fa0-833f-d2f0283d31b6",
       "code": "5274000000",
       "name": "전북특별자치도 장수군",
       "shortName": "전북 장수군",
       "executionCourtId": "u-ced87051-cea5-40de-8c70-29db4380203d",
-      "order": 21500
+      "order": "121500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9e",
+      "_id": "6a4c3531050c99717369e6d9",
       "id": "u-a4249d69-7150-4b48-9c8a-3bada0c3373a",
       "code": "5211300000",
       "name": "전북특별자치도 전주시 덕진구",
       "shortName": "전주시 덕진구",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 21600
+      "order": "121600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43c9f",
+      "_id": "6a4c3531050c99717369e6da",
       "id": "u-844088bd-8693-4ca4-a0d1-d8b19ab86c70",
       "code": "5211100000",
       "name": "전북특별자치도 전주시 완산구",
       "shortName": "전주시 완산구",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 21700
+      "order": "121700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca0",
+      "_id": "6a4c3531050c99717369e6db",
       "id": "u-0b066b99-9ad7-4806-8cbf-46948fc24410",
       "code": "5218000000",
       "name": "전북특별자치도 정읍시",
       "shortName": "정읍시",
       "executionCourtId": "u-43753b27-67d4-485c-aa3b-576040c5549d",
-      "order": 21800
+      "order": "121800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca1",
+      "_id": "6a4c3531050c99717369e6dc",
       "id": "u-68f7ece9-b309-49d8-8b6d-9af5af2544d6",
       "code": "5272000000",
       "name": "전북특별자치도 진안군",
       "shortName": "전북 진안군",
       "executionCourtId": "u-590fd2d9-1faf-43ac-bfd4-6356345553a2",
-      "order": 21900
+      "order": "121900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca2",
+      "_id": "6a4c3531050c99717369e6dd",
       "id": "u-75ff50d8-a011-4b57-81ac-c40f76818ddc",
       "code": "5013000000",
       "name": "제주특별자치도 서귀포시",
       "shortName": "서귀포시",
       "executionCourtId": "u-7adadc14-4a94-48da-99fc-7616be8cc272",
-      "order": 22000
+      "order": "122000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca3",
+      "_id": "6a4c3531050c99717369e6de",
       "id": "u-58160ea8-34c5-46bf-b281-a5eee16e5397",
       "code": "5011000000",
       "name": "제주특별자치도 제주시",
       "shortName": "제주시",
       "executionCourtId": "u-7adadc14-4a94-48da-99fc-7616be8cc272",
-      "order": 22100
+      "order": "122100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca4",
+      "_id": "6a4c3531050c99717369e6df",
       "id": "u-6b28f5db-8cc9-4554-8166-7e500fff900d",
       "code": "4425000000",
       "name": "충청남도 계룡시",
       "shortName": "계룡시",
       "executionCourtId": "u-47891c65-55d4-4cf5-80f5-e8e14625e604",
-      "order": 22200
+      "order": "122200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca5",
+      "_id": "6a4c3531050c99717369e6e0",
       "id": "u-b9f3f66e-7498-40f5-a354-86b74ccefa67",
       "code": "4415000000",
       "name": "충청남도 공주시",
       "shortName": "공주시",
       "executionCourtId": "u-45b4f038-65c6-4376-b691-74b86a15c62b",
-      "order": 22300
+      "order": "122300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca6",
+      "_id": "6a4c3531050c99717369e6e1",
       "id": "u-da8f2d8d-3a4b-4ab3-99c1-a22ec27cfc7d",
       "code": "4471000000",
       "name": "충청남도 금산군",
       "shortName": "충남 금산군",
       "executionCourtId": "u-2d83c61e-5508-4ccd-807e-a1214909b56a",
-      "order": 22400
+      "order": "122400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca7",
+      "_id": "6a4c3531050c99717369e6e2",
       "id": "u-b5102e49-5dd3-4029-96dd-c05134bdc20a",
       "code": "4423000000",
       "name": "충청남도 논산시",
       "shortName": "논산시",
       "executionCourtId": "u-47891c65-55d4-4cf5-80f5-e8e14625e604",
-      "order": 22500
+      "order": "122500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca8",
+      "_id": "6a4c3531050c99717369e6e3",
       "id": "u-07bfeed6-4fcb-4919-848e-4f877d114205",
       "code": "4427000000",
       "name": "충청남도 당진시",
       "shortName": "당진시",
       "executionCourtId": "u-ca7ed60b-de45-4bb7-99da-f77c28ddecfd",
-      "order": 22600
+      "order": "122600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43ca9",
+      "_id": "6a4c3531050c99717369e6e4",
       "id": "u-f2a04364-9992-44e7-9316-fd9b2bad67cf",
       "code": "4418000000",
       "name": "충청남도 보령시",
       "shortName": "보령시",
       "executionCourtId": "u-a858586c-5e86-45a0-990e-a1ae027dcb90",
-      "order": 22700
+      "order": "122700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43caa",
+      "_id": "6a4c3531050c99717369e6e5",
       "id": "u-4e5d2ec6-cf88-4ccd-bd17-cc9beb6a5da3",
       "code": "4476000000",
       "name": "충청남도 부여군",
       "shortName": "충남 부여군",
       "executionCourtId": "u-47891c65-55d4-4cf5-80f5-e8e14625e604",
-      "order": 22800
+      "order": "122800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cab",
+      "_id": "6a4c3531050c99717369e6e6",
       "id": "u-e210d5e2-c7bd-4f4f-b9f7-fad9eaf3871d",
       "code": "4421000000",
       "name": "충청남도 서산시",
       "shortName": "서산시",
       "executionCourtId": "u-ca7ed60b-de45-4bb7-99da-f77c28ddecfd",
-      "order": 22900
+      "order": "122900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cac",
+      "_id": "6a4c3531050c99717369e6e7",
       "id": "u-a14f6e73-6300-45d9-9845-675047904689",
       "code": "4477000000",
       "name": "충청남도 서천군",
       "shortName": "충남 서천군",
       "executionCourtId": "u-a858586c-5e86-45a0-990e-a1ae027dcb90",
-      "order": 23000
+      "order": "123000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cad",
+      "_id": "6a4c3531050c99717369e6e8",
       "id": "u-c470c695-7457-4219-a97a-e797ae43e106",
       "code": "4420000000",
       "name": "충청남도 아산시",
       "shortName": "아산시",
       "executionCourtId": "u-338d6ccd-c5ca-4e56-bc06-9986671ca076",
-      "order": 23100
+      "order": "123100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cae",
+      "_id": "6a4c3531050c99717369e6e9",
       "id": "u-254c066c-2c40-4e93-8767-d46cd08e9db9",
       "code": "4481000000",
       "name": "충청남도 예산군",
       "shortName": "충남 예산군",
       "executionCourtId": "u-a858586c-5e86-45a0-990e-a1ae027dcb90",
-      "order": 23200
+      "order": "123200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43caf",
+      "_id": "6a4c3531050c99717369e6ea",
       "id": "u-c9516d12-798c-48fc-9b7f-6d0ac9bf0f8a",
       "code": "4413100000",
       "name": "충청남도 천안시 동남구",
       "shortName": "천안시 동남구",
       "executionCourtId": "u-338d6ccd-c5ca-4e56-bc06-9986671ca076",
-      "order": 23300
+      "order": "123300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb0",
+      "_id": "6a4c3531050c99717369e6eb",
       "id": "u-c2af3bc4-4edc-4811-8428-f4a78801c79c",
       "code": "4413300000",
       "name": "충청남도 천안시 서북구",
       "shortName": "천안시 서북구",
       "executionCourtId": "u-338d6ccd-c5ca-4e56-bc06-9986671ca076",
-      "order": 23400
+      "order": "123400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb1",
+      "_id": "6a4c3531050c99717369e6ec",
       "id": "u-20b1fcc2-c143-4bbc-90a1-2d3f2873b268",
       "code": "4479000000",
       "name": "충청남도 청양군",
       "shortName": "충남 청양군",
       "executionCourtId": "u-45b4f038-65c6-4376-b691-74b86a15c62b",
-      "order": 23500
+      "order": "123500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb2",
+      "_id": "6a4c3531050c99717369e6ed",
       "id": "u-012dea3a-4380-4f8a-9103-79d4dc9238b4",
       "code": "4482500000",
       "name": "충청남도 태안군",
       "shortName": "충남 태안군",
       "executionCourtId": "u-ca7ed60b-de45-4bb7-99da-f77c28ddecfd",
-      "order": 23600
+      "order": "123600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb3",
+      "_id": "6a4c3531050c99717369e6ee",
       "id": "u-c399145e-abcb-43cf-a265-e6311d7c5030",
       "code": "4480000000",
       "name": "충청남도 홍성군",
       "shortName": "충남 홍성군",
       "executionCourtId": "u-a858586c-5e86-45a0-990e-a1ae027dcb90",
-      "order": 23700
+      "order": "123700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb4",
+      "_id": "6a4c3531050c99717369e6ef",
       "id": "u-6c6b2b95-95e8-4f67-8f94-93a07d0cf8aa",
       "code": "4376000000",
       "name": "충청북도 괴산군",
       "shortName": "충북 괴산군",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 23800
+      "order": "123800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb5",
+      "_id": "6a4c3531050c99717369e6f0",
       "id": "u-e8d0975d-ad61-4a0b-acac-a02b72953cea",
       "code": "4380000000",
       "name": "충청북도 단양군",
       "shortName": "충북 단양군",
       "executionCourtId": "u-a4c9cf01-24f6-4886-b8c0-772189da9054",
-      "order": 23900
+      "order": "123900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb6",
+      "_id": "6a4c3531050c99717369e6f1",
       "id": "u-650a6257-8fc9-4c41-8916-b50e1163f22d",
       "code": "4372000000",
       "name": "충청북도 보은군",
       "shortName": "충북 보은군",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24000
+      "order": "124000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb7",
+      "_id": "6a4c3531050c99717369e6f2",
       "id": "u-c7933a30-064d-4e0e-b61d-ebf3bcd32dd1",
       "code": "4374000000",
       "name": "충청북도 영동군",
       "shortName": "충북 영동군",
       "executionCourtId": "u-916cc11b-4cc2-445c-a1e6-a7b00f42aead",
-      "order": 24100
+      "order": "124100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb8",
+      "_id": "6a4c3531050c99717369e6f3",
       "id": "u-1b007300-0be2-4df0-ad7b-4dadfd3f3549",
       "code": "4380000000",
       "name": "충청북도 옥천군",
       "shortName": "충북 옥천군",
       "executionCourtId": "u-916cc11b-4cc2-445c-a1e6-a7b00f42aead",
-      "order": 24200
+      "order": "124200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cb9",
+      "_id": "6a4c3531050c99717369e6f4",
       "id": "u-9b8b16e4-09e6-46f9-8e7a-b90496e7ca14",
       "code": "4377000000",
       "name": "충청북도 음성군",
       "shortName": "충북 음성군",
       "executionCourtId": "u-9ad10ebf-e5cc-4fce-9e4d-a3cd8d47bd24",
-      "order": 24300
+      "order": "124300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cba",
+      "_id": "6a4c3531050c99717369e6f5",
       "id": "u-c341627a-e2a0-4cd5-a1e2-05c4c0286efe",
       "code": "4315000000",
       "name": "충청북도 제천시",
       "shortName": "제천시",
       "executionCourtId": "u-a4c9cf01-24f6-4886-b8c0-772189da9054",
-      "order": 24400
+      "order": "124400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cbb",
+      "_id": "6a4c3531050c99717369e6f6",
       "id": "u-de7cd3aa-f572-4470-9613-561a33ba1cfc",
       "code": "4374500000",
       "name": "충청북도 증평군",
       "shortName": "충북 증평군",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24500
+      "order": "124500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cbc",
+      "_id": "6a4c3531050c99717369e6f7",
       "id": "u-5689a62b-9977-44e0-882d-e34ef548909e",
       "code": "4375000000",
       "name": "충청북도 진천군",
       "shortName": "충북 진천군",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24600
+      "order": "124600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cbd",
+      "_id": "6a4c3531050c99717369e6f8",
       "id": "u-9e939946-a852-4e45-8749-c70d057d7e3f",
       "code": "4311100000",
       "name": "충청북도 청주시 상당구",
       "shortName": "청주시 상당구",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24700
+      "order": "124700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cbe",
+      "_id": "6a4c3531050c99717369e6f9",
       "id": "u-5566634a-69c9-4b29-9d9c-40444959170a",
       "code": "4311200000",
       "name": "충청북도 청주시 서원구",
       "shortName": "청주시 서원구",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24800
+      "order": "124800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cbf",
+      "_id": "6a4c3531050c99717369e6fa",
       "id": "u-e858ef95-9070-47e1-bccf-a4eff38f39dc",
       "code": "4311400000",
       "name": "충청북도 청주시 청원구",
       "shortName": "청주시 청원구",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 24900
+      "order": "124900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cc0",
+      "_id": "6a4c3531050c99717369e6fb",
       "id": "u-8bca9590-ae18-444a-97a8-d78e526867e5",
       "code": "4311300000",
       "name": "충청북도 청주시 흥덕구",
       "shortName": "청주시 흥덕구",
       "executionCourtId": "u-92d35dba-261d-4456-90b1-dfa883d89621",
-      "order": 25000
+      "order": "125000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43cc1",
+      "_id": "6a4c3531050c99717369e6fc",
       "id": "u-17c65087-73f3-42e0-a128-27c0c676402f",
       "code": "4313000000",
       "name": "충청북도 충주시",
       "shortName": "충주시",
       "executionCourtId": "u-9ad10ebf-e5cc-4fce-9e4d-a3cd8d47bd24",
-      "order": 25100
+      "order": "125100"
     }
   ],
   "representativeTitles": [
     {
-      "_id": "6a4c32bea0e2b631efa43bbb",
+      "_id": "6a4c3531050c99717369e5ac",
       "id": "u-a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
       "name": "공동대표이사",
-      "order": 0
+      "order": "100000"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bbc",
+      "_id": "6a4c3531050c99717369e5ad",
       "id": "u-a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
       "name": "공동대표자",
-      "order": 100
+      "order": "100100"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bbd",
+      "_id": "6a4c3531050c99717369e5ae",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "관리인",
-      "order": 200
+      "order": "100200"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bbe",
+      "_id": "6a4c3531050c99717369e5af",
       "id": "u-f1a2b3c4-d5e6-47f8-a9b0-c1d2e3f4a5b6",
       "name": "대표자",
-      "order": 300
+      "order": "100300"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bbf",
+      "_id": "6a4c3531050c99717369e5b0",
       "id": "u-e1f2a3b4-c5d6-47e8-f9a0-b1c2d3e4f5a6",
       "name": "대표이사",
-      "order": 400
+      "order": "100400"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc0",
+      "_id": "6a4c3531050c99717369e5b1",
       "id": "u-b1c2d3e4-f5a6-47b8-c9d0-e1f2a3b4c5d6",
       "name": "이사장",
-      "order": 500
+      "order": "100500"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc1",
+      "_id": "6a4c3531050c99717369e5b2",
       "id": "u-d1e2f3a4-b5c6-47d8-e9f0-a1b2c3d4e5f6",
       "name": "대표사원",
-      "order": 600
+      "order": "100600"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc2",
+      "_id": "6a4c3531050c99717369e5b3",
       "id": "u-f5a6b7c8-d9e0-41f2-a3b4-c5d6e7f8a9b0",
       "name": "조합장",
-      "order": 700
+      "order": "100700"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc3",
+      "_id": "6a4c3531050c99717369e5b4",
       "id": "u-c5d6e7f8-a9b0-41c2-d3e4-f5a6b7c8d9e0",
       "name": "상무",
-      "order": 800
+      "order": "100800"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc4",
+      "_id": "6a4c3531050c99717369e5b5",
       "id": "u-a5b6c7d8-e9f0-41a2-b3c4-d5e6f7a8b9c0",
       "name": "이사",
-      "order": 900
+      "order": "100900"
     },
     {
-      "_id": "6a4c32bea0e2b631efa43bc5",
+      "_id": "6a4c3531050c99717369e5b6",
       "id": "u-e5f6a7b8-c9d0-41e2-f3a4-b5c6d7e8f9a0",
       "name": "기타",
-      "order": 1000
+      "order": "101000"
     }
   ],
   "subjectsToService": [
     {
-      "_id": "6a4c32be90b895f46a528c97",
+      "_id": "6a4c3531050c99717369e5b7",
       "id": "u-96a6a593-c892-4ff6-b277-c8b4230dd071",
       "name": "광주고등검찰청장",
       "address": {
@@ -66240,10 +66240,10 @@
           "buldSlno": "12"
         }
       },
-      "order": 0
+      "order": "100000"
     },
     {
-      "_id": "6a4c32be90b895f46a528c98",
+      "_id": "6a4c3531050c99717369e5b8",
       "id": "u-db24d694-1048-413f-9bfa-35c1812de50a",
       "name": "대구고등검찰청장",
       "address": {
@@ -66277,10 +66277,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 100
+      "order": "100100"
     },
     {
-      "_id": "6a4c32be90b895f46a528c99",
+      "_id": "6a4c3531050c99717369e5b9",
       "id": "u-1a2ed644-79cd-4328-b9dd-663a3bf2b644",
       "name": "대전고등검찰청장",
       "address": {
@@ -66314,10 +66314,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 200
+      "order": "100200"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9a",
+      "_id": "6a4c3531050c99717369e5ba",
       "id": "u-03743c23-bb60-4512-928e-d9be2418fbdc",
       "name": "부산고등검찰청장",
       "address": {
@@ -66351,10 +66351,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 300
+      "order": "100300"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9b",
+      "_id": "6a4c3531050c99717369e5bb",
       "id": "u-2c01e186-30d6-47f6-969b-30beb79417d7",
       "name": "서울고등검찰청장",
       "address": {
@@ -66388,10 +66388,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 400
+      "order": "100400"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9c",
+      "_id": "6a4c3531050c99717369e5bc",
       "id": "u-910e183c-836f-497e-9317-89bf129a7d70",
       "name": "수원고등검찰청장",
       "address": {
@@ -66425,10 +66425,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 500
+      "order": "100500"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9d",
+      "_id": "6a4c3531050c99717369e5bd",
       "id": "u-45b33d8c-e7c8-42a2-b279-863ad74d1c9f",
       "name": "울산지방검찰청장",
       "address": {
@@ -66462,10 +66462,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 600
+      "order": "100600"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9e",
+      "_id": "6a4c3531050c99717369e5be",
       "id": "u-027bad30-e462-491d-8f18-8be285493bc7",
       "name": "의정부지방검찰청",
       "address": {
@@ -66499,10 +66499,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 700
+      "order": "100700"
     },
     {
-      "_id": "6a4c32be90b895f46a528c9f",
+      "_id": "6a4c3531050c99717369e5bf",
       "id": "u-4804e9c8-6e09-427d-899f-599694684421",
       "name": "인천지방검찰청장",
       "address": {
@@ -66536,10 +66536,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 800
+      "order": "100800"
     },
     {
-      "_id": "6a4c32be90b895f46a528ca0",
+      "_id": "6a4c3531050c99717369e5c0",
       "id": "u-20c60ef5-8440-4892-a170-2ce40e0ac024",
       "name": "전주지방검찰청장",
       "address": {
@@ -66573,10 +66573,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 900
+      "order": "100900"
     },
     {
-      "_id": "6a4c32be90b895f46a528ca1",
+      "_id": "6a4c3531050c99717369e5c1",
       "id": "u-4acbd684-9c9a-4992-83bb-c3fd88d85f82",
       "name": "제주지방검찰청장",
       "address": {
@@ -66610,10 +66610,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 1000
+      "order": "101000"
     },
     {
-      "_id": "6a4c32be90b895f46a528ca2",
+      "_id": "6a4c3531050c99717369e5c2",
       "id": "u-d6178353-5ffe-4200-8286-dff4b64f39af",
       "name": "창원지방검찰청장",
       "address": {
@@ -66647,10 +66647,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 1100
+      "order": "101100"
     },
     {
-      "_id": "6a4c32be90b895f46a528ca3",
+      "_id": "6a4c3531050c99717369e5c3",
       "id": "u-47755abd-27b0-4291-9891-48b0ec0f12bd",
       "name": "청주지방검찰청장",
       "address": {
@@ -66684,10 +66684,10 @@
           "buldSlno": "0"
         }
       },
-      "order": 1200
+      "order": "101200"
     },
     {
-      "_id": "6a4c32be90b895f46a528ca4",
+      "_id": "6a4c3531050c99717369e5c4",
       "id": "u-2a1606c9-b7c7-4bfb-adc9-c46fbbaf3b77",
       "name": "춘천지방검찰청장",
       "address": {
@@ -66721,7 +66721,7 @@
           "buldSlno": "0"
         }
       },
-      "order": 1300
+      "order": "101300"
     }
   ]
 }
