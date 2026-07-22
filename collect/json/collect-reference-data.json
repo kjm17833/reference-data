@@ -14335,6 +14335,7 @@
       "id": "u-52d04160-9385-4468-b09f-148db6315ede",
       "origin": "시스템",
       "isFinancialInstitution": "true",
+      "personType": "국가",
       "name": "대한민국",
       "registrationNumber": "",
       "address": {
@@ -32818,7 +32819,7 @@
       "name": "수협은행",
       "registrationNumber": "2442350009895",
       "address": {
-        "zipNo": "",
+        "zipNo": "05510",
         "roadAddrPart1": "서울 송파구 오금로 62 (신천동)",
         "roadAddrPart2": ""
       },
@@ -49076,7 +49077,7 @@
       },
       "representative": {
         "title": "대표이사",
-        "name": "백종일"
+        "name": "박춘원"
       }
     },
     {
@@ -49084,16 +49085,16 @@
       "origin": "시스템",
       "isFinancialInstitution": "true",
       "personType": "법인",
-      "name": "주식회사 카카오뱅크 (KakaoBank Corp.)",
+      "name": "주식회사 카카오뱅크",
       "registrationNumber": "1311110435767",
       "address": {
         "zipNo": "13529",
         "roadAddrPart1": "성남시 분당구 분당내곡로 131",
-        "roadAddrPart2": "(백현동)"
+        "roadAddrPart2": "11층 (백현동)"
       },
       "representative": {
         "title": "공동대표이사",
-        "name": "윤호영/주말"
+        "name": "윤호영"
       }
     },
     {
@@ -49101,10 +49102,10 @@
       "origin": "시스템",
       "isFinancialInstitution": "true",
       "personType": "법인",
-      "name": "주식회사 케이뱅크 (Kbank)",
+      "name": "주식회사 케이뱅크",
       "registrationNumber": "1101115938985",
       "address": {
-        "zipNo": "",
+        "zipNo": "04548",
         "roadAddrPart1": "서울 중구 을지로 170 (을지로4가, 을지트윈타워)",
         "roadAddrPart2": ""
       },
